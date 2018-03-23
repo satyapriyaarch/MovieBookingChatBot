@@ -1,0 +1,5132 @@
+{
+  "MUMBAI": [
+    {
+      "RegionCode": "MUMBAI",
+      "RegionName": "Mumbai",
+      "SubRegionCode": "MWEST",
+      "SubRegionName": "Mumbai: Western"
+    },
+    {
+      "RegionCode": "MUMBAI",
+      "RegionName": "Mumbai",
+      "SubRegionCode": "MCENT",
+      "SubRegionName": "Mumbai: South & Central"
+    },
+    {
+      "RegionCode": "MUMBAI",
+      "RegionName": "Mumbai",
+      "SubRegionCode": "THAN",
+      "SubRegionName": "Navi Mumbai"
+    },
+    {
+      "RegionCode": "MUMBAI",
+      "RegionName": "Mumbai",
+      "SubRegionCode": "KALYAN",
+      "SubRegionName": "Kalyan"
+    },
+    {
+      "RegionCode": "MUMBAI",
+      "RegionName": "Mumbai",
+      "SubRegionCode": "ULHA",
+      "SubRegionName": "Ulhasnagar"
+    }
+  ],
+  "NCR": [
+    {
+      "RegionCode": "NCR",
+      "RegionName": "National Capital Region (NCR)",
+      "SubRegionCode": "DELHI",
+      "SubRegionName": "Delhi"
+    },
+    {
+      "RegionCode": "NCR",
+      "RegionName": "National Capital Region (NCR)",
+      "SubRegionCode": "GURG",
+      "SubRegionName": "Gurugram (Gurgaon)"
+    },
+    {
+      "RegionCode": "NCR",
+      "RegionName": "National Capital Region (NCR)",
+      "SubRegionCode": "NOIDA",
+      "SubRegionName": "Noida"
+    },
+    {
+      "RegionCode": "NCR",
+      "RegionName": "National Capital Region (NCR)",
+      "SubRegionCode": "GHAZ",
+      "SubRegionName": "Ghaziabad"
+    },
+    {
+      "RegionCode": "NCR",
+      "RegionName": "National Capital Region (NCR)",
+      "SubRegionCode": "KUND",
+      "SubRegionName": "Kundli"
+    },
+    {
+      "RegionCode": "NCR",
+      "RegionName": "National Capital Region (NCR)",
+      "SubRegionCode": "GRET",
+      "SubRegionName": "Greater Noida"
+    },
+    {
+      "RegionCode": "NCR",
+      "RegionName": "National Capital Region (NCR)",
+      "SubRegionCode": "FARI",
+      "SubRegionName": "Faridabad"
+    }
+  ],
+  "BANG": [
+    {
+      "RegionCode": "BANG",
+      "RegionName": "Bengaluru",
+      "SubRegionCode": "BANG",
+      "SubRegionName": "Bengaluru"
+    }
+  ],
+  "HYD": [
+    {
+      "RegionCode": "HYD",
+      "RegionName": "Hyderabad",
+      "SubRegionCode": "HYD",
+      "SubRegionName": "Hyderabad"
+    }
+  ],
+  "AHD": [
+    {
+      "RegionCode": "AHD",
+      "RegionName": "Ahmedabad",
+      "SubRegionCode": "AHD",
+      "SubRegionName": "Ahmedabad"
+    }
+  ],
+  "CHD": [
+    {
+      "RegionCode": "CHD",
+      "RegionName": "Chandigarh",
+      "SubRegionCode": "CHD",
+      "SubRegionName": "Chandigarh"
+    }
+  ],
+  "CHEN": [
+    {
+      "RegionCode": "CHEN",
+      "RegionName": "Chennai",
+      "SubRegionCode": "CHEN",
+      "SubRegionName": "Chennai"
+    }
+  ],
+  "PUNE": [
+    {
+      "RegionCode": "PUNE",
+      "RegionName": "Pune",
+      "SubRegionCode": "PUNE",
+      "SubRegionName": "Pune"
+    }
+  ],
+  "KOLK": [
+    {
+      "RegionCode": "KOLK",
+      "RegionName": "Kolkata",
+      "SubRegionCode": "KOLK",
+      "SubRegionName": "Kolkata"
+    }
+  ],
+  "KOCH": [
+    {
+      "RegionCode": "KOCH",
+      "RegionName": "Kochi",
+      "SubRegionCode": "KOCH",
+      "SubRegionName": "Kochi"
+    }
+  ],
+  "ABOR": [
+    {
+      "RegionCode": "ABOR",
+      "RegionName": "Abohar",
+      "SubRegionCode": "ABOR",
+      "SubRegionName": "Abohar"
+    }
+  ],
+  "ABRD": [
+    {
+      "RegionCode": "ABRD",
+      "RegionName": "Abu Road",
+      "SubRegionCode": "ABRD",
+      "SubRegionName": "Abu Road"
+    }
+  ],
+  "ACHM": [
+    {
+      "RegionCode": "ACHM",
+      "RegionName": "Achampet",
+      "SubRegionCode": "ACHM",
+      "SubRegionName": "Achampet"
+    }
+  ],
+  "ADIL": [
+    {
+      "RegionCode": "ADIL",
+      "RegionName": "Adilabad",
+      "SubRegionCode": "ADIL",
+      "SubRegionName": "Adilabad"
+    }
+  ],
+  "AGAR": [
+    {
+      "RegionCode": "AGAR",
+      "RegionName": "Agartala",
+      "SubRegionCode": "AGAR",
+      "SubRegionName": "Agartala"
+    }
+  ],
+  "AGRA": [
+    {
+      "RegionCode": "AGRA",
+      "RegionName": "Agra",
+      "SubRegionCode": "AGRA",
+      "SubRegionName": "Agra"
+    }
+  ],
+  "AHMG": [
+    {
+      "RegionCode": "AHMG",
+      "RegionName": "Ahmedgarh",
+      "SubRegionCode": "AHMG",
+      "SubRegionName": "Ahmedgarh"
+    }
+  ],
+  "AJMER": [
+    {
+      "RegionCode": "AJMER",
+      "RegionName": "Ajmer",
+      "SubRegionCode": "AJMER",
+      "SubRegionName": "Ajmer"
+    }
+  ],
+  "AKLJ": [
+    {
+      "RegionCode": "AKLJ",
+      "RegionName": "Akluj",
+      "SubRegionCode": "AKLJ",
+      "SubRegionName": "Akluj"
+    }
+  ],
+  "AKOL": [
+    {
+      "RegionCode": "AKOL",
+      "RegionName": "Akola",
+      "SubRegionCode": "AKOL",
+      "SubRegionName": "Akola"
+    }
+  ],
+  "ALI": [
+    {
+      "RegionCode": "ALI",
+      "RegionName": "Aligarh",
+      "SubRegionCode": "ALI",
+      "SubRegionName": "Aligarh"
+    }
+  ],
+  "ALGD": [
+    {
+      "RegionCode": "ALGD",
+      "RegionName": "Allagadda",
+      "SubRegionCode": "ALGD",
+      "SubRegionName": "Allagadda"
+    }
+  ],
+  "ALMO": [
+    {
+      "RegionCode": "ALMO",
+      "RegionName": "Almora",
+      "SubRegionCode": "ALMO",
+      "SubRegionName": "Almora"
+    }
+  ],
+  "ALUR": [
+    {
+      "RegionCode": "ALUR",
+      "RegionName": "Alur",
+      "SubRegionCode": "ALUR",
+      "SubRegionName": "Alur"
+    }
+  ],
+  "AMAP": [
+    {
+      "RegionCode": "AMAP",
+      "RegionName": "Amalapuram",
+      "SubRegionCode": "AMAP",
+      "SubRegionName": "Amalapuram"
+    }
+  ],
+  "AMLN": [
+    {
+      "RegionCode": "AMLN",
+      "RegionName": "Amalner",
+      "SubRegionCode": "AMLN",
+      "SubRegionName": "Amalner"
+    }
+  ],
+  "AMB": [
+    {
+      "RegionCode": "AMB",
+      "RegionName": "Ambala",
+      "SubRegionCode": "AMB",
+      "SubRegionName": "Ambala"
+    }
+  ],
+  "AMBI": [
+    {
+      "RegionCode": "AMBI",
+      "RegionName": "Ambikapur",
+      "SubRegionCode": "AMBI",
+      "SubRegionName": "Ambikapur"
+    }
+  ],
+  "AMGN": [
+    {
+      "RegionCode": "AMGN",
+      "RegionName": "Amgaon ",
+      "SubRegionCode": "AMGN",
+      "SubRegionName": "Amgaon "
+    }
+  ],
+  "AMRA": [
+    {
+      "RegionCode": "AMRA",
+      "RegionName": "Amravati",
+      "SubRegionCode": "AMRA",
+      "SubRegionName": "Amravati"
+    }
+  ],
+  "AMRI": [
+    {
+      "RegionCode": "AMRI",
+      "RegionName": "Amritsar",
+      "SubRegionCode": "AMRI",
+      "SubRegionName": "Amritsar"
+    }
+  ],
+  "AND": [
+    {
+      "RegionCode": "AND",
+      "RegionName": "Anand",
+      "SubRegionCode": "AND",
+      "SubRegionName": "Anand"
+    }
+  ],
+  "ANAN": [
+    {
+      "RegionCode": "ANAN",
+      "RegionName": "Anantapur",
+      "SubRegionCode": "ANAN",
+      "SubRegionName": "Anantapur"
+    }
+  ],
+  "ANHL": [
+    {
+      "RegionCode": "ANHL",
+      "RegionName": "Anchal",
+      "SubRegionCode": "ANHL",
+      "SubRegionName": "Anchal"
+    }
+  ],
+  "ANGA": [
+    {
+      "RegionCode": "ANGA",
+      "RegionName": "Angamaly",
+      "SubRegionCode": "ANGA",
+      "SubRegionName": "Angamaly"
+    }
+  ],
+  "ANGL": [
+    {
+      "RegionCode": "ANGL",
+      "RegionName": "Angul",
+      "SubRegionCode": "ANGL",
+      "SubRegionName": "Angul"
+    }
+  ],
+  "ANJA": [
+    {
+      "RegionCode": "ANJA",
+      "RegionName": "Anjad",
+      "SubRegionCode": "ANJA",
+      "SubRegionName": "Anjad"
+    }
+  ],
+  "ANJR": [
+    {
+      "RegionCode": "ANJR",
+      "RegionName": "Anjar",
+      "SubRegionCode": "ANJR",
+      "SubRegionName": "Anjar"
+    }
+  ],
+  "AMBH": [
+    {
+      "RegionCode": "AMBH",
+      "RegionName": "Arambagh",
+      "SubRegionCode": "AMBH",
+      "SubRegionName": "Arambagh"
+    }
+  ],
+  "ASANSOL": [
+    {
+      "RegionCode": "ASANSOL",
+      "RegionName": "Asansol",
+      "SubRegionCode": "ASANSOL",
+      "SubRegionName": "Asansol"
+    }
+  ],
+  "AKMP": [
+    {
+      "RegionCode": "AKMP",
+      "RegionName": "Ashoknagar",
+      "SubRegionCode": "AKMP",
+      "SubRegionName": "Ashoknagar"
+    }
+  ],
+  "AURA": [
+    {
+      "RegionCode": "AURA",
+      "RegionName": "Aurangabad",
+      "SubRegionCode": "AURA",
+      "SubRegionName": "Aurangabad"
+    }
+  ],
+  "AZMG": [
+    {
+      "RegionCode": "AZMG",
+      "RegionName": "Azamgarh",
+      "SubRegionCode": "AZMG",
+      "SubRegionName": "Azamgarh"
+    }
+  ],
+  "BADN": [
+    {
+      "RegionCode": "BADN",
+      "RegionName": "Badaun",
+      "SubRegionCode": "BADN",
+      "SubRegionName": "Badaun"
+    }
+  ],
+  "BADD": [
+    {
+      "RegionCode": "BADD",
+      "RegionName": "Baddi",
+      "SubRegionCode": "BADD",
+      "SubRegionName": "Baddi"
+    }
+  ],
+  "BAAG": [
+    {
+      "RegionCode": "BAAG",
+      "RegionName": "Bagaha",
+      "SubRegionCode": "BAAG",
+      "SubRegionName": "Bagaha"
+    }
+  ],
+  "BBHA": [
+    {
+      "RegionCode": "BBHA",
+      "RegionName": "Bagbahara",
+      "SubRegionCode": "BBHA",
+      "SubRegionName": "Bagbahara"
+    }
+  ],
+  "BAPU": [
+    {
+      "RegionCode": "BAPU",
+      "RegionName": "Bagha Purana",
+      "SubRegionCode": "BAPU",
+      "SubRegionName": "Bagha Purana"
+    }
+  ],
+  "BAHD": [
+    {
+      "RegionCode": "BAHD",
+      "RegionName": "Bahadurgarh",
+      "SubRegionCode": "BAHD",
+      "SubRegionName": "Bahadurgarh"
+    }
+  ],
+  "BHRH": [
+    {
+      "RegionCode": "BHRH",
+      "RegionName": "Bahraich",
+      "SubRegionCode": "BHRH",
+      "SubRegionName": "Bahraich"
+    }
+  ],
+  "BAID": [
+    {
+      "RegionCode": "BAID",
+      "RegionName": "Baidyabati",
+      "SubRegionCode": "BAID",
+      "SubRegionName": "Baidyabati"
+    }
+  ],
+  "BAND": [
+    {
+      "RegionCode": "BAND",
+      "RegionName": "Baindur",
+      "SubRegionCode": "BAND",
+      "SubRegionName": "Baindur"
+    }
+  ],
+  "BLGT": [
+    {
+      "RegionCode": "BLGT",
+      "RegionName": "Balaghat",
+      "SubRegionCode": "BLGT",
+      "SubRegionName": "Balaghat"
+    }
+  ],
+  "BLSR": [
+    {
+      "RegionCode": "BLSR",
+      "RegionName": "Balasore",
+      "SubRegionCode": "BLSR",
+      "SubRegionName": "Balasore"
+    }
+  ],
+  "BALD": [
+    {
+      "RegionCode": "BALD",
+      "RegionName": "Balod",
+      "SubRegionCode": "BALD",
+      "SubRegionName": "Balod"
+    }
+  ],
+  "BBCH": [
+    {
+      "RegionCode": "BBCH",
+      "RegionName": "Baloda Bazar",
+      "SubRegionCode": "BBCH",
+      "SubRegionName": "Baloda Bazar"
+    }
+  ],
+  "BALO": [
+    {
+      "RegionCode": "BALO",
+      "RegionName": "Balotra",
+      "SubRegionCode": "BALO",
+      "SubRegionName": "Balotra"
+    }
+  ],
+  "BALU": [
+    {
+      "RegionCode": "BALU",
+      "RegionName": "Balurghat",
+      "SubRegionCode": "BALU",
+      "SubRegionName": "Balurghat"
+    }
+  ],
+  "BNGA": [
+    {
+      "RegionCode": "BNGA",
+      "RegionName": "Banga",
+      "SubRegionCode": "BNGA",
+      "SubRegionName": "Banga"
+    }
+  ],
+  "BANS": [
+    {
+      "RegionCode": "BANS",
+      "RegionName": "Banswara",
+      "SubRegionCode": "BANS",
+      "SubRegionName": "Banswara"
+    }
+  ],
+  "BAPA": [
+    {
+      "RegionCode": "BAPA",
+      "RegionName": "Bapatla",
+      "SubRegionCode": "BAPA",
+      "SubRegionName": "Bapatla"
+    }
+  ],
+  "BARA": [
+    {
+      "RegionCode": "BARA",
+      "RegionName": "Baramati",
+      "SubRegionCode": "BARA",
+      "SubRegionName": "Baramati"
+    }
+  ],
+  "BARN": [
+    {
+      "RegionCode": "BARN",
+      "RegionName": "Baran",
+      "SubRegionCode": "BARN",
+      "SubRegionName": "Baran"
+    }
+  ],
+  "BRDL": [
+    {
+      "RegionCode": "BRDL",
+      "RegionName": "Bardoli",
+      "SubRegionCode": "BRDL",
+      "SubRegionName": "Bardoli"
+    }
+  ],
+  "BARE": [
+    {
+      "RegionCode": "BARE",
+      "RegionName": "Bareilly",
+      "SubRegionCode": "BARE",
+      "SubRegionName": "Bareilly"
+    }
+  ],
+  "BARG": [
+    {
+      "RegionCode": "BARG",
+      "RegionName": "Bargarh",
+      "SubRegionCode": "BARG",
+      "SubRegionName": "Bargarh"
+    }
+  ],
+  "BARI": [
+    {
+      "RegionCode": "BARI",
+      "RegionName": "Baripada",
+      "SubRegionCode": "BARI",
+      "SubRegionName": "Baripada"
+    }
+  ],
+  "BARM": [
+    {
+      "RegionCode": "BARM",
+      "RegionName": "Barmer",
+      "SubRegionCode": "BARM",
+      "SubRegionName": "Barmer"
+    }
+  ],
+  "BAR": [
+    {
+      "RegionCode": "BAR",
+      "RegionName": "Barnala",
+      "SubRegionCode": "BAR",
+      "SubRegionName": "Barnala"
+    }
+  ],
+  "BRWN": [
+    {
+      "RegionCode": "BRWN",
+      "RegionName": "Barwani",
+      "SubRegionCode": "BRWN",
+      "SubRegionName": "Barwani"
+    }
+  ],
+  "BASN": [
+    {
+      "RegionCode": "BASN",
+      "RegionName": "Basna",
+      "SubRegionCode": "BASN",
+      "SubRegionName": "Basna"
+    }
+  ],
+  "BHAT": [
+    {
+      "RegionCode": "BHAT",
+      "RegionName": "Bathinda",
+      "SubRegionCode": "BHAT",
+      "SubRegionName": "Bathinda"
+    }
+  ],
+  "BEAW": [
+    {
+      "RegionCode": "BEAW",
+      "RegionName": "Beawar",
+      "SubRegionCode": "BEAW",
+      "SubRegionName": "Beawar"
+    }
+  ],
+  "BEGU": [
+    {
+      "RegionCode": "BEGU",
+      "RegionName": "Beguniapada",
+      "SubRegionCode": "BEGU",
+      "SubRegionName": "Beguniapada"
+    }
+  ],
+  "BELG": [
+    {
+      "RegionCode": "BELG",
+      "RegionName": "Belagavi (Belgaum)",
+      "SubRegionCode": "BELG",
+      "SubRegionName": "Belagavi (Belgaum)"
+    }
+  ],
+  "BELL": [
+    {
+      "RegionCode": "BELL",
+      "RegionName": "Bellampalli",
+      "SubRegionCode": "BELL",
+      "SubRegionName": "Bellampalli"
+    }
+  ],
+  "BLRY": [
+    {
+      "RegionCode": "BLRY",
+      "RegionName": "Bellary",
+      "SubRegionCode": "BLRY",
+      "SubRegionName": "Bellary"
+    }
+  ],
+  "BEHA": [
+    {
+      "RegionCode": "BEHA",
+      "RegionName": "Berhampore",
+      "SubRegionCode": "BEHA",
+      "SubRegionName": "Berhampore"
+    }
+  ],
+  "BERP": [
+    {
+      "RegionCode": "BERP",
+      "RegionName": "Berhampur",
+      "SubRegionCode": "BERP",
+      "SubRegionName": "Berhampur"
+    }
+  ],
+  "BETU": [
+    {
+      "RegionCode": "BETU",
+      "RegionName": "Betul",
+      "SubRegionCode": "BETU",
+      "SubRegionName": "Betul"
+    }
+  ],
+  "BHDR": [
+    {
+      "RegionCode": "BHDR",
+      "RegionName": "Bhadrachalam",
+      "SubRegionCode": "BHDR",
+      "SubRegionName": "Bhadrachalam"
+    }
+  ],
+  "BDVT": [
+    {
+      "RegionCode": "BDVT",
+      "RegionName": "Bhadravati",
+      "SubRegionCode": "BDVT",
+      "SubRegionName": "Bhadravati"
+    }
+  ],
+  "BHAN": [
+    {
+      "RegionCode": "BHAN",
+      "RegionName": "Bhainsa",
+      "SubRegionCode": "BHAN",
+      "SubRegionName": "Bhainsa"
+    }
+  ],
+  "BHAA": [
+    {
+      "RegionCode": "BHAA",
+      "RegionName": "Bhandara",
+      "SubRegionCode": "BHAA",
+      "SubRegionName": "Bhandara"
+    }
+  ],
+  "BHAR": [
+    {
+      "RegionCode": "BHAR",
+      "RegionName": "Bharuch",
+      "SubRegionCode": "BHAR",
+      "SubRegionName": "Bharuch"
+    }
+  ],
+  "BAKL": [
+    {
+      "RegionCode": "BAKL",
+      "RegionName": "Bhatkal",
+      "SubRegionCode": "BAKL",
+      "SubRegionName": "Bhatkal"
+    }
+  ],
+  "BATT": [
+    {
+      "RegionCode": "BATT",
+      "RegionName": "Bhattiprolu",
+      "SubRegionCode": "BATT",
+      "SubRegionName": "Bhattiprolu"
+    }
+  ],
+  "BHNG": [
+    {
+      "RegionCode": "BHNG",
+      "RegionName": "Bhavnagar",
+      "SubRegionCode": "BHNG",
+      "SubRegionName": "Bhavnagar"
+    }
+  ],
+  "BHILAI": [
+    {
+      "RegionCode": "BHILAI",
+      "RegionName": "Bhilai",
+      "SubRegionCode": "BHILAI",
+      "SubRegionName": "Bhilai"
+    }
+  ],
+  "BHIM": [
+    {
+      "RegionCode": "BHIM",
+      "RegionName": "Bhimavaram",
+      "SubRegionCode": "BHIM",
+      "SubRegionName": "Bhimavaram"
+    }
+  ],
+  "BHWN": [
+    {
+      "RegionCode": "BHWN",
+      "RegionName": "Bhiwani",
+      "SubRegionCode": "BHWN",
+      "SubRegionName": "Bhiwani"
+    }
+  ],
+  "BHOP": [
+    {
+      "RegionCode": "BHOP",
+      "RegionName": "Bhopal",
+      "SubRegionCode": "BHOP",
+      "SubRegionName": "Bhopal"
+    }
+  ],
+  "BHUB": [
+    {
+      "RegionCode": "BHUB",
+      "RegionName": "Bhubaneswar",
+      "SubRegionCode": "BHUB",
+      "SubRegionName": "Bhubaneswar"
+    }
+  ],
+  "BHUP": [
+    {
+      "RegionCode": "BHUP",
+      "RegionName": "Bhupalpalle",
+      "SubRegionCode": "BHUP",
+      "SubRegionName": "Bhupalpalle"
+    }
+  ],
+  "BHUS": [
+    {
+      "RegionCode": "BHUS",
+      "RegionName": "Bhusawal",
+      "SubRegionCode": "BHUS",
+      "SubRegionName": "Bhusawal"
+    }
+  ],
+  "BHUV": [
+    {
+      "RegionCode": "BHUV",
+      "RegionName": "Bhuvanagiri",
+      "SubRegionCode": "BHUV",
+      "SubRegionName": "Bhuvanagiri"
+    }
+  ],
+  "BIAR": [
+    {
+      "RegionCode": "BIAR",
+      "RegionName": "Biaora",
+      "SubRegionCode": "BIAR",
+      "SubRegionName": "Biaora"
+    }
+  ],
+  "GOA": [
+    {
+      "RegionCode": "GOA",
+      "RegionName": "Goa",
+      "SubRegionCode": "BICG",
+      "SubRegionName": "Bicholim "
+    },
+    {
+      "RegionCode": "GOA",
+      "RegionName": "Goa",
+      "SubRegionCode": "GOA",
+      "SubRegionName": "Goa"
+    },
+    {
+      "RegionCode": "GOA",
+      "RegionName": "Goa",
+      "SubRegionCode": "MARG",
+      "SubRegionName": "Margao"
+    },
+    {
+      "RegionCode": "GOA",
+      "RegionName": "Goa",
+      "SubRegionCode": "PANA",
+      "SubRegionName": "Panaji"
+    },
+    {
+      "RegionCode": "GOA",
+      "RegionName": "Goa",
+      "SubRegionCode": "VAGG",
+      "SubRegionName": "Vasco Da Gama"
+    },
+    {
+      "RegionCode": "GOA",
+      "RegionName": "Goa",
+      "SubRegionCode": "MARC",
+      "SubRegionName": "Marcela"
+    }
+  ],
+  "BIDI": [
+    {
+      "RegionCode": "BIDI",
+      "RegionName": "Bidadi",
+      "SubRegionCode": "BIDI",
+      "SubRegionName": "Bidadi"
+    }
+  ],
+  "BIDR": [
+    {
+      "RegionCode": "BIDR",
+      "RegionName": "Bidar",
+      "SubRegionCode": "BIDR",
+      "SubRegionName": "Bidar"
+    }
+  ],
+  "BIJ": [
+    {
+      "RegionCode": "BIJ",
+      "RegionName": "Bijnor",
+      "SubRegionCode": "BIJ",
+      "SubRegionName": "Bijnor"
+    }
+  ],
+  "BIJO": [
+    {
+      "RegionCode": "BIJO",
+      "RegionName": "Bijoynagar",
+      "SubRegionCode": "BIJO",
+      "SubRegionName": "Bijoynagar"
+    }
+  ],
+  "BIK": [
+    {
+      "RegionCode": "BIK",
+      "RegionName": "Bikaner",
+      "SubRegionCode": "BIK",
+      "SubRegionName": "Bikaner"
+    }
+  ],
+  "BILA": [
+    {
+      "RegionCode": "BILA",
+      "RegionName": "Bilaspur",
+      "SubRegionCode": "BILA",
+      "SubRegionName": "Bilaspur"
+    }
+  ],
+  "BILI": [
+    {
+      "RegionCode": "BILI",
+      "RegionName": "Bilimora",
+      "SubRegionCode": "BILI",
+      "SubRegionName": "Bilimora"
+    }
+  ],
+  "BSRM": [
+    {
+      "RegionCode": "BSRM",
+      "RegionName": "Bishrampur",
+      "SubRegionCode": "BSRM",
+      "SubRegionName": "Bishrampur"
+    }
+  ],
+  "BOKA": [
+    {
+      "RegionCode": "BOKA",
+      "RegionName": "Bokaro",
+      "SubRegionCode": "BOKA",
+      "SubRegionName": "Bokaro"
+    }
+  ],
+  "BLPR": [
+    {
+      "RegionCode": "BLPR",
+      "RegionName": "Bolpur",
+      "SubRegionCode": "BLPR",
+      "SubRegionName": "Bolpur"
+    }
+  ],
+  "BONG": [
+    {
+      "RegionCode": "BONG",
+      "RegionName": "Bongaigaon",
+      "SubRegionCode": "BONG",
+      "SubRegionName": "Bongaigaon"
+    }
+  ],
+  "BHMP": [
+    {
+      "RegionCode": "BHMP",
+      "RegionName": "Brahmapuri",
+      "SubRegionCode": "BHMP",
+      "SubRegionName": "Brahmapuri"
+    }
+  ],
+  "BJNG": [
+    {
+      "RegionCode": "BJNG",
+      "RegionName": "Brajrajnagar",
+      "SubRegionCode": "BJNG",
+      "SubRegionName": "Brajrajnagar"
+    }
+  ],
+  "BULA": [
+    {
+      "RegionCode": "BULA",
+      "RegionName": "Bulandshahr",
+      "SubRegionCode": "BULA",
+      "SubRegionName": "Bulandshahr"
+    }
+  ],
+  "BURD": [
+    {
+      "RegionCode": "BURD",
+      "RegionName": "Burdwan",
+      "SubRegionCode": "BURD",
+      "SubRegionName": "Burdwan"
+    }
+  ],
+  "CHLS": [
+    {
+      "RegionCode": "CHLS",
+      "RegionName": "Chalisgaon",
+      "SubRegionCode": "CHLS",
+      "SubRegionName": "Chalisgaon"
+    }
+  ],
+  "CHAP": [
+    {
+      "RegionCode": "CHAP",
+      "RegionName": "Challapalli",
+      "SubRegionCode": "CHAP",
+      "SubRegionName": "Challapalli"
+    }
+  ],
+  "CHAJ": [
+    {
+      "RegionCode": "CHAJ",
+      "RegionName": "Chamarajnagar",
+      "SubRegionCode": "CHAJ",
+      "SubRegionName": "Chamarajnagar"
+    }
+  ],
+  "CHAM": [
+    {
+      "RegionCode": "CHAM",
+      "RegionName": "Champa",
+      "SubRegionCode": "CHAM",
+      "SubRegionName": "Champa"
+    }
+  ],
+  "CHAD": [
+    {
+      "RegionCode": "CHAD",
+      "RegionName": "Chandragiri",
+      "SubRegionCode": "CHAD",
+      "SubRegionName": "Chandragiri"
+    }
+  ],
+  "CHAN": [
+    {
+      "RegionCode": "CHAN",
+      "RegionName": "Chandrapur",
+      "SubRegionCode": "CHAN",
+      "SubRegionName": "Chandrapur"
+    }
+  ],
+  "CNSY": [
+    {
+      "RegionCode": "CNSY",
+      "RegionName": "Changanassery",
+      "SubRegionCode": "CNSY",
+      "SubRegionName": "Changanassery"
+    }
+  ],
+  "CPTN": [
+    {
+      "RegionCode": "CPTN",
+      "RegionName": "Channapatna",
+      "SubRegionCode": "CPTN",
+      "SubRegionName": "Channapatna"
+    }
+  ],
+  "CHEE": [
+    {
+      "RegionCode": "CHEE",
+      "RegionName": "Cheepurupalli",
+      "SubRegionCode": "CHEE",
+      "SubRegionName": "Cheepurupalli"
+    }
+  ],
+  "CHRL": [
+    {
+      "RegionCode": "CHRL",
+      "RegionName": "Cherla",
+      "SubRegionCode": "CHRL",
+      "SubRegionName": "Cherla"
+    }
+  ],
+  "CHEV": [
+    {
+      "RegionCode": "CHEV",
+      "RegionName": "Chevella",
+      "SubRegionCode": "CHEV",
+      "SubRegionName": "Chevella"
+    }
+  ],
+  "CHHT": [
+    {
+      "RegionCode": "CHHT",
+      "RegionName": "Chhatarpur",
+      "SubRegionCode": "CHHT",
+      "SubRegionName": "Chhatarpur"
+    }
+  ],
+  "CHKA": [
+    {
+      "RegionCode": "CHKA",
+      "RegionName": "Chickmagaluru",
+      "SubRegionCode": "CHKA",
+      "SubRegionName": "Chickmagaluru"
+    }
+  ],
+  "CHIH": [
+    {
+      "RegionCode": "CHIH",
+      "RegionName": "Chikhli",
+      "SubRegionCode": "CHIH",
+      "SubRegionName": "Chikhli"
+    }
+  ],
+  "CHIL": [
+    {
+      "RegionCode": "CHIL",
+      "RegionName": "Chilakaluripet",
+      "SubRegionCode": "CHIL",
+      "SubRegionName": "Chilakaluripet"
+    }
+  ],
+  "CHIR": [
+    {
+      "RegionCode": "CHIR",
+      "RegionName": "Chirala",
+      "SubRegionCode": "CHIR",
+      "SubRegionName": "Chirala"
+    }
+  ],
+  "CHIT": [
+    {
+      "RegionCode": "CHIT",
+      "RegionName": "Chitradurga",
+      "SubRegionCode": "CHIT",
+      "SubRegionName": "Chitradurga"
+    }
+  ],
+  "COIM": [
+    {
+      "RegionCode": "COIM",
+      "RegionName": "Coimbatore",
+      "SubRegionCode": "COIM",
+      "SubRegionName": "Coimbatore"
+    }
+  ],
+  "COBE": [
+    {
+      "RegionCode": "COBE",
+      "RegionName": "Cooch Behar",
+      "SubRegionCode": "COBE",
+      "SubRegionName": "Cooch Behar"
+    }
+  ],
+  "CUTT": [
+    {
+      "RegionCode": "CUTT",
+      "RegionName": "Cuttack",
+      "SubRegionCode": "CUTT",
+      "SubRegionName": "Cuttack"
+    }
+  ],
+  "DHGM": [
+    {
+      "RegionCode": "DHGM",
+      "RegionName": "Dahegam",
+      "SubRegionCode": "DHGM",
+      "SubRegionName": "Dahegam"
+    }
+  ],
+  "DAHO": [
+    {
+      "RegionCode": "DAHO",
+      "RegionName": "Dahod",
+      "SubRegionCode": "DAHO",
+      "SubRegionName": "Dahod"
+    }
+  ],
+  "DAKS": [
+    {
+      "RegionCode": "DAKS",
+      "RegionName": "Dakshin Barasat",
+      "SubRegionCode": "DAKS",
+      "SubRegionName": "Dakshin Barasat"
+    }
+  ],
+  "DALL": [
+    {
+      "RegionCode": "DALL",
+      "RegionName": "Dalli Rajhara",
+      "SubRegionCode": "DALL",
+      "SubRegionName": "Dalli Rajhara"
+    }
+  ],
+  "DAMO": [
+    {
+      "RegionCode": "DAMO",
+      "RegionName": "Damoh",
+      "SubRegionCode": "DAMO",
+      "SubRegionName": "Damoh"
+    }
+  ],
+  "DARJ": [
+    {
+      "RegionCode": "DARJ",
+      "RegionName": "Darjeeling",
+      "SubRegionCode": "DARJ",
+      "SubRegionName": "Darjeeling"
+    }
+  ],
+  "DRLA": [
+    {
+      "RegionCode": "DRLA",
+      "RegionName": "Darlapudi",
+      "SubRegionCode": "DRLA",
+      "SubRegionName": "Darlapudi"
+    }
+  ],
+  "DASU": [
+    {
+      "RegionCode": "DASU",
+      "RegionName": "Dasuya",
+      "SubRegionCode": "DASU",
+      "SubRegionName": "Dasuya"
+    }
+  ],
+  "DAUS": [
+    {
+      "RegionCode": "DAUS",
+      "RegionName": "Dausa",
+      "SubRegionCode": "DAUS",
+      "SubRegionName": "Dausa"
+    }
+  ],
+  "DAVA": [
+    {
+      "RegionCode": "DAVA",
+      "RegionName": "Davanagere",
+      "SubRegionCode": "DAVA",
+      "SubRegionName": "Davanagere"
+    }
+  ],
+  "DVLR": [
+    {
+      "RegionCode": "DVLR",
+      "RegionName": "Davuluru",
+      "SubRegionCode": "DVLR",
+      "SubRegionName": "Davuluru"
+    }
+  ],
+  "DEES": [
+    {
+      "RegionCode": "DEES",
+      "RegionName": "Deesa",
+      "SubRegionCode": "DEES",
+      "SubRegionName": "Deesa"
+    }
+  ],
+  "DEH": [
+    {
+      "RegionCode": "DEH",
+      "RegionName": "Dehradun",
+      "SubRegionCode": "DEH",
+      "SubRegionName": "Dehradun"
+    }
+  ],
+  "DOGH": [
+    {
+      "RegionCode": "DOGH",
+      "RegionName": "Deoghar",
+      "SubRegionCode": "DOGH",
+      "SubRegionName": "Deoghar"
+    }
+  ],
+  "DEVR": [
+    {
+      "RegionCode": "DEVR",
+      "RegionName": "Devarakadra",
+      "SubRegionCode": "DEVR",
+      "SubRegionName": "Devarakadra"
+    }
+  ],
+  "DEWAS": [
+    {
+      "RegionCode": "DEWAS",
+      "RegionName": "Dewas",
+      "SubRegionCode": "DEWAS",
+      "SubRegionName": "Dewas"
+    }
+  ],
+  "DMND": [
+    {
+      "RegionCode": "DMND",
+      "RegionName": "Dhamnod",
+      "SubRegionCode": "DMND",
+      "SubRegionName": "Dhamnod"
+    }
+  ],
+  "DHPR": [
+    {
+      "RegionCode": "DHPR",
+      "RegionName": "Dhampur",
+      "SubRegionCode": "DHPR",
+      "SubRegionName": "Dhampur"
+    }
+  ],
+  "DHMT": [
+    {
+      "RegionCode": "DHMT",
+      "RegionName": "Dhamtari",
+      "SubRegionCode": "DHMT",
+      "SubRegionName": "Dhamtari"
+    }
+  ],
+  "DHAN": [
+    {
+      "RegionCode": "DHAN",
+      "RegionName": "Dhanbad",
+      "SubRegionCode": "DHAN",
+      "SubRegionName": "Dhanbad"
+    }
+  ],
+  "DARH": [
+    {
+      "RegionCode": "DARH",
+      "RegionName": "Dhar",
+      "SubRegionCode": "DARH",
+      "SubRegionName": "Dhar"
+    }
+  ],
+  "DMSL": [
+    {
+      "RegionCode": "DMSL",
+      "RegionName": "Dharamsala",
+      "SubRegionCode": "DMSL",
+      "SubRegionName": "Dharamsala"
+    }
+  ],
+  "DHAR": [
+    {
+      "RegionCode": "DHAR",
+      "RegionName": "Dharapuram",
+      "SubRegionCode": "DHAR",
+      "SubRegionName": "Dharapuram"
+    }
+  ],
+  "DHRA": [
+    {
+      "RegionCode": "DHRA",
+      "RegionName": "Dharuhera",
+      "SubRegionCode": "DHRA",
+      "SubRegionName": "Dharuhera"
+    }
+  ],
+  "DHAW": [
+    {
+      "RegionCode": "DHAW",
+      "RegionName": "Dharwad",
+      "SubRegionCode": "DHAW",
+      "SubRegionName": "Dharwad"
+    }
+  ],
+  "DHLE": [
+    {
+      "RegionCode": "DHLE",
+      "RegionName": "Dhule",
+      "SubRegionCode": "DHLE",
+      "SubRegionName": "Dhule"
+    }
+  ],
+  "DHRI": [
+    {
+      "RegionCode": "DHRI",
+      "RegionName": "Dhuri",
+      "SubRegionCode": "DHRI",
+      "SubRegionName": "Dhuri"
+    }
+  ],
+  "DIB": [
+    {
+      "RegionCode": "DIB",
+      "RegionName": "Dibrugarh",
+      "SubRegionCode": "DIB",
+      "SubRegionName": "Dibrugarh"
+    }
+  ],
+  "DIGR": [
+    {
+      "RegionCode": "DIGR",
+      "RegionName": "Digras",
+      "SubRegionCode": "DIGR",
+      "SubRegionName": "Digras"
+    }
+  ],
+  "DMPR": [
+    {
+      "RegionCode": "DMPR",
+      "RegionName": "Dimapur",
+      "SubRegionCode": "DMPR",
+      "SubRegionName": "Dimapur"
+    }
+  ],
+  "DMKL": [
+    {
+      "RegionCode": "DMKL",
+      "RegionName": "Domkal",
+      "SubRegionCode": "DMKL",
+      "SubRegionName": "Domkal"
+    }
+  ],
+  "DONG": [
+    {
+      "RegionCode": "DONG",
+      "RegionName": "Dongargarh",
+      "SubRegionCode": "DONG",
+      "SubRegionName": "Dongargarh"
+    }
+  ],
+  "DAKR": [
+    {
+      "RegionCode": "DAKR",
+      "RegionName": "Draksharamam",
+      "SubRegionCode": "DAKR",
+      "SubRegionName": "Draksharamam"
+    }
+  ],
+  "DURG": [
+    {
+      "RegionCode": "DURG",
+      "RegionName": "Durg",
+      "SubRegionCode": "DURG",
+      "SubRegionName": "Durg"
+    }
+  ],
+  "DURGA": [
+    {
+      "RegionCode": "DURGA",
+      "RegionName": "Durgapur",
+      "SubRegionCode": "DURGA",
+      "SubRegionName": "Durgapur"
+    }
+  ],
+  "RUSS": [
+    {
+      "RegionCode": "RUSS",
+      "RegionName": "Ekaterinburg",
+      "SubRegionCode": "RUSS",
+      "SubRegionName": "Ekaterinburg"
+    }
+  ],
+  "EKMA": [
+    {
+      "RegionCode": "EKMA",
+      "RegionName": "Ekma",
+      "SubRegionCode": "EKMA",
+      "SubRegionName": "Ekma"
+    }
+  ],
+  "ELRU": [
+    {
+      "RegionCode": "ELRU",
+      "RegionName": "Eluru",
+      "SubRegionCode": "ELRU",
+      "SubRegionName": "Eluru"
+    }
+  ],
+  "EROD": [
+    {
+      "RegionCode": "EROD",
+      "RegionName": "Erode",
+      "SubRegionCode": "EROD",
+      "SubRegionName": "Erode"
+    }
+  ],
+  "ETWH": [
+    {
+      "RegionCode": "ETWH",
+      "RegionName": "Etawah",
+      "SubRegionCode": "ETWH",
+      "SubRegionName": "Etawah"
+    }
+  ],
+  "FASA": [
+    {
+      "RegionCode": "FASA",
+      "RegionName": "Fatehgarh Sahib",
+      "SubRegionCode": "FASA",
+      "SubRegionName": "Fatehgarh Sahib"
+    }
+  ],
+  "FATE": [
+    {
+      "RegionCode": "FATE",
+      "RegionName": "Fatehpur",
+      "SubRegionCode": "FATE",
+      "SubRegionName": "Fatehpur"
+    }
+  ],
+  "FAKA": [
+    {
+      "RegionCode": "FAKA",
+      "RegionName": "Fazilka",
+      "SubRegionCode": "FAKA",
+      "SubRegionName": "Fazilka"
+    }
+  ],
+  "FRZR": [
+    {
+      "RegionCode": "FRZR",
+      "RegionName": "Firozpur",
+      "SubRegionCode": "FRZR",
+      "SubRegionName": "Firozpur"
+    }
+  ],
+  "GMAD": [
+    {
+      "RegionCode": "GMAD",
+      "RegionName": "G.Mamidada",
+      "SubRegionCode": "GMAD",
+      "SubRegionName": "G.Mamidada"
+    }
+  ],
+  "GDWR": [
+    {
+      "RegionCode": "GDWR",
+      "RegionName": "Gadarwara",
+      "SubRegionCode": "GDWR",
+      "SubRegionName": "Gadarwara"
+    }
+  ],
+  "GDRO": [
+    {
+      "RegionCode": "GDRO",
+      "RegionName": "Gadchiroli",
+      "SubRegionCode": "GDRO",
+      "SubRegionName": "Gadchiroli"
+    }
+  ],
+  "GJPT": [
+    {
+      "RegionCode": "GJPT",
+      "RegionName": "Gajapathinagaram",
+      "SubRegionCode": "GJPT",
+      "SubRegionName": "Gajapathinagaram"
+    }
+  ],
+  "GDHAM": [
+    {
+      "RegionCode": "GDHAM",
+      "RegionName": "Gandhidham",
+      "SubRegionCode": "GDHAM",
+      "SubRegionName": "Gandhidham"
+    }
+  ],
+  "GNAGAR": [
+    {
+      "RegionCode": "GNAGAR",
+      "RegionName": "Gandhinagar",
+      "SubRegionCode": "GNAGAR",
+      "SubRegionName": "Gandhinagar"
+    }
+  ],
+  "GAVT": [
+    {
+      "RegionCode": "GAVT",
+      "RegionName": "Gangavati",
+      "SubRegionCode": "GAVT",
+      "SubRegionName": "Gangavati"
+    }
+  ],
+  "GANJ": [
+    {
+      "RegionCode": "GANJ",
+      "RegionName": "Ganjbasoda",
+      "SubRegionCode": "GANJ",
+      "SubRegionName": "Ganjbasoda"
+    }
+  ],
+  "GAUR": [
+    {
+      "RegionCode": "GAUR",
+      "RegionName": "Gauribidanur",
+      "SubRegionCode": "GAUR",
+      "SubRegionName": "Gauribidanur"
+    }
+  ],
+  "GAYA": [
+    {
+      "RegionCode": "GAYA",
+      "RegionName": "Gaya",
+      "SubRegionCode": "GAYA",
+      "SubRegionName": "Gaya"
+    }
+  ],
+  "GOKA": [
+    {
+      "RegionCode": "GOKA",
+      "RegionName": "Gokarna",
+      "SubRegionCode": "GOKA",
+      "SubRegionName": "Gokarna"
+    }
+  ],
+  "GNDA": [
+    {
+      "RegionCode": "GNDA",
+      "RegionName": "Gondia",
+      "SubRegionCode": "GNDA",
+      "SubRegionName": "Gondia"
+    }
+  ],
+  "GOPG": [
+    {
+      "RegionCode": "GOPG",
+      "RegionName": "Gopalganj",
+      "SubRegionCode": "GOPG",
+      "SubRegionName": "Gopalganj"
+    }
+  ],
+  "GRKP": [
+    {
+      "RegionCode": "GRKP",
+      "RegionName": "Gorakhpur",
+      "SubRegionCode": "GRKP",
+      "SubRegionName": "Gorakhpur"
+    }
+  ],
+  "GTGN": [
+    {
+      "RegionCode": "GTGN",
+      "RegionName": "Gotegaon",
+      "SubRegionCode": "GTGN",
+      "SubRegionName": "Gotegaon"
+    }
+  ],
+  "GUDI": [
+    {
+      "RegionCode": "GUDI",
+      "RegionName": "Gudivada",
+      "SubRegionCode": "GUDI",
+      "SubRegionName": "Gudivada"
+    }
+  ],
+  "GUNA": [
+    {
+      "RegionCode": "GUNA",
+      "RegionName": "Guna",
+      "SubRegionCode": "GUNA",
+      "SubRegionName": "Guna"
+    }
+  ],
+  "GUNL": [
+    {
+      "RegionCode": "GUNL",
+      "RegionName": "Guntakal",
+      "SubRegionCode": "GUNL",
+      "SubRegionName": "Guntakal"
+    }
+  ],
+  "GUNT": [
+    {
+      "RegionCode": "GUNT",
+      "RegionName": "Guntur",
+      "SubRegionCode": "GUNT",
+      "SubRegionName": "Guntur"
+    }
+  ],
+  "GUW": [
+    {
+      "RegionCode": "GUW",
+      "RegionName": "Guwahati",
+      "SubRegionCode": "GUW",
+      "SubRegionName": "Guwahati"
+    }
+  ],
+  "HAJI": [
+    {
+      "RegionCode": "HAJI",
+      "RegionName": "Hajipur",
+      "SubRegionCode": "HAJI",
+      "SubRegionName": "Hajipur"
+    }
+  ],
+  "HLDI": [
+    {
+      "RegionCode": "HLDI",
+      "RegionName": "Haldia",
+      "SubRegionCode": "HLDI",
+      "SubRegionName": "Haldia"
+    }
+  ],
+  "HALD": [
+    {
+      "RegionCode": "HALD",
+      "RegionName": "Haldwani",
+      "SubRegionCode": "HALD",
+      "SubRegionName": "Haldwani"
+    }
+  ],
+  "HAMI": [
+    {
+      "RegionCode": "HAMI",
+      "RegionName": "Hamirpur (HP)",
+      "SubRegionCode": "HAMI",
+      "SubRegionName": "Hamirpur (HP)"
+    }
+  ],
+  "HRDA": [
+    {
+      "RegionCode": "HRDA",
+      "RegionName": "Harda",
+      "SubRegionCode": "HRDA",
+      "SubRegionName": "Harda"
+    }
+  ],
+  "HRDI": [
+    {
+      "RegionCode": "HRDI",
+      "RegionName": "Hardoi",
+      "SubRegionCode": "HRDI",
+      "SubRegionName": "Hardoi"
+    }
+  ],
+  "HRDR": [
+    {
+      "RegionCode": "HRDR",
+      "RegionName": "Haridwar",
+      "SubRegionCode": "HRDR",
+      "SubRegionName": "Haridwar"
+    }
+  ],
+  "HRHR": [
+    {
+      "RegionCode": "HRHR",
+      "RegionName": "Harihar",
+      "SubRegionCode": "HRHR",
+      "SubRegionName": "Harihar"
+    }
+  ],
+  "HRPD": [
+    {
+      "RegionCode": "HRPD",
+      "RegionName": "Haripad",
+      "SubRegionCode": "HRPD",
+      "SubRegionName": "Haripad"
+    }
+  ],
+  "HATH": [
+    {
+      "RegionCode": "HATH",
+      "RegionName": "Hathras",
+      "SubRegionCode": "HATH",
+      "SubRegionName": "Hathras"
+    }
+  ],
+  "HAZA": [
+    {
+      "RegionCode": "HAZA",
+      "RegionName": "Hazaribagh",
+      "SubRegionCode": "HAZA",
+      "SubRegionName": "Hazaribagh"
+    }
+  ],
+  "HNDP": [
+    {
+      "RegionCode": "HNDP",
+      "RegionName": "Hindupur",
+      "SubRegionCode": "HNDP",
+      "SubRegionName": "Hindupur"
+    }
+  ],
+  "HIRA": [
+    {
+      "RegionCode": "HIRA",
+      "RegionName": "Hiramandalam",
+      "SubRegionCode": "HIRA",
+      "SubRegionName": "Hiramandalam"
+    }
+  ],
+  "HISR": [
+    {
+      "RegionCode": "HISR",
+      "RegionName": "Hisar",
+      "SubRegionCode": "HISR",
+      "SubRegionName": "Hisar"
+    }
+  ],
+  "HOLE": [
+    {
+      "RegionCode": "HOLE",
+      "RegionName": "Holenarasipura",
+      "SubRegionCode": "HOLE",
+      "SubRegionName": "Holenarasipura"
+    }
+  ],
+  "HNVR": [
+    {
+      "RegionCode": "HNVR",
+      "RegionName": "Honnavara",
+      "SubRegionCode": "HNVR",
+      "SubRegionName": "Honnavara"
+    }
+  ],
+  "HOOG": [
+    {
+      "RegionCode": "HOOG",
+      "RegionName": "Hooghly",
+      "SubRegionCode": "HOOG",
+      "SubRegionName": "Hooghly"
+    }
+  ],
+  "HOSH": [
+    {
+      "RegionCode": "HOSH",
+      "RegionName": "Hoshiarpur",
+      "SubRegionCode": "HOSH",
+      "SubRegionName": "Hoshiarpur"
+    }
+  ],
+  "ICPR": [
+    {
+      "RegionCode": "ICPR",
+      "RegionName": "Ichchapuram",
+      "SubRegionCode": "ICPR",
+      "SubRegionName": "Ichchapuram"
+    }
+  ],
+  "IDKI": [
+    {
+      "RegionCode": "IDKI",
+      "RegionName": "Idukki",
+      "SubRegionCode": "IDKI",
+      "SubRegionName": "Idukki"
+    }
+  ],
+  "INDA": [
+    {
+      "RegionCode": "INDA",
+      "RegionName": "Indapur",
+      "SubRegionCode": "INDA",
+      "SubRegionName": "Indapur"
+    }
+  ],
+  "IND": [
+    {
+      "RegionCode": "IND",
+      "RegionName": "Indore",
+      "SubRegionCode": "IND",
+      "SubRegionName": "Indore"
+    }
+  ],
+  "IDPA": [
+    {
+      "RegionCode": "IDPA",
+      "RegionName": "Indukurpeta",
+      "SubRegionCode": "IDPA",
+      "SubRegionName": "Indukurpeta"
+    }
+  ],
+  "IRNK": [
+    {
+      "RegionCode": "IRNK",
+      "RegionName": "Irinjalakuda",
+      "SubRegionCode": "IRNK",
+      "SubRegionName": "Irinjalakuda"
+    }
+  ],
+  "JADC": [
+    {
+      "RegionCode": "JADC",
+      "RegionName": "Jadcherla",
+      "SubRegionCode": "JADC",
+      "SubRegionName": "Jadcherla"
+    }
+  ],
+  "JAGD": [
+    {
+      "RegionCode": "JAGD",
+      "RegionName": "Jagdalpur",
+      "SubRegionCode": "JAGD",
+      "SubRegionName": "Jagdalpur"
+    }
+  ],
+  "JGGY": [
+    {
+      "RegionCode": "JGGY",
+      "RegionName": "Jaggayyapeta",
+      "SubRegionCode": "JGGY",
+      "SubRegionName": "Jaggayyapeta"
+    }
+  ],
+  "JGTL": [
+    {
+      "RegionCode": "JGTL",
+      "RegionName": "Jagtial",
+      "SubRegionCode": "JGTL",
+      "SubRegionName": "Jagtial"
+    }
+  ],
+  "JAIP": [
+    {
+      "RegionCode": "JAIP",
+      "RegionName": "Jaipur",
+      "SubRegionCode": "JAIP",
+      "SubRegionName": "Jaipur"
+    }
+  ],
+  "JAJP": [
+    {
+      "RegionCode": "JAJP",
+      "RegionName": "Jajpur Road",
+      "SubRegionCode": "JAJP",
+      "SubRegionName": "Jajpur Road"
+    }
+  ],
+  "JLAB": [
+    {
+      "RegionCode": "JLAB",
+      "RegionName": "Jalalabad",
+      "SubRegionCode": "JLAB",
+      "SubRegionName": "Jalalabad"
+    }
+  ],
+  "JALA": [
+    {
+      "RegionCode": "JALA",
+      "RegionName": "Jalandhar",
+      "SubRegionCode": "JALA",
+      "SubRegionName": "Jalandhar"
+    }
+  ],
+  "JALG": [
+    {
+      "RegionCode": "JALG",
+      "RegionName": "Jalgaon",
+      "SubRegionCode": "JALG",
+      "SubRegionName": "Jalgaon"
+    }
+  ],
+  "JAMK": [
+    {
+      "RegionCode": "JAMK",
+      "RegionName": "Jamkhed",
+      "SubRegionCode": "JAMK",
+      "SubRegionName": "Jamkhed"
+    }
+  ],
+  "JAM": [
+    {
+      "RegionCode": "JAM",
+      "RegionName": "Jamnagar",
+      "SubRegionCode": "JAM",
+      "SubRegionName": "Jamnagar"
+    }
+  ],
+  "JAMN": [
+    {
+      "RegionCode": "JAMN",
+      "RegionName": "Jamner",
+      "SubRegionCode": "JAMN",
+      "SubRegionName": "Jamner"
+    }
+  ],
+  "JMDP": [
+    {
+      "RegionCode": "JMDP",
+      "RegionName": "Jamshedpur",
+      "SubRegionCode": "JMDP",
+      "SubRegionName": "Jamshedpur"
+    }
+  ],
+  "JANG": [
+    {
+      "RegionCode": "JANG",
+      "RegionName": "Jangareddy Gudem",
+      "SubRegionCode": "JANG",
+      "SubRegionName": "Jangareddy Gudem"
+    }
+  ],
+  "JANR": [
+    {
+      "RegionCode": "JANR",
+      "RegionName": "Janjgir",
+      "SubRegionCode": "JANR",
+      "SubRegionName": "Janjgir"
+    }
+  ],
+  "JASD": [
+    {
+      "RegionCode": "JASD",
+      "RegionName": "Jasdan",
+      "SubRegionCode": "JASD",
+      "SubRegionName": "Jasdan"
+    }
+  ],
+  "JATN": [
+    {
+      "RegionCode": "JATN",
+      "RegionName": "Jatni",
+      "SubRegionCode": "JATN",
+      "SubRegionName": "Jatni"
+    }
+  ],
+  "JEHA": [
+    {
+      "RegionCode": "JEHA",
+      "RegionName": "Jehanabad",
+      "SubRegionCode": "JEHA",
+      "SubRegionName": "Jehanabad"
+    }
+  ],
+  "JETP": [
+    {
+      "RegionCode": "JETP",
+      "RegionName": "Jetpur",
+      "SubRegionCode": "JETP",
+      "SubRegionName": "Jetpur"
+    }
+  ],
+  "JHAB": [
+    {
+      "RegionCode": "JHAB",
+      "RegionName": "Jhabua",
+      "SubRegionCode": "JHAB",
+      "SubRegionName": "Jhabua"
+    }
+  ],
+  "JNSI": [
+    {
+      "RegionCode": "JNSI",
+      "RegionName": "Jhansi",
+      "SubRegionCode": "JNSI",
+      "SubRegionName": "Jhansi"
+    }
+  ],
+  "JRSG": [
+    {
+      "RegionCode": "JRSG",
+      "RegionName": "Jharsuguda",
+      "SubRegionCode": "JRSG",
+      "SubRegionName": "Jharsuguda"
+    }
+  ],
+  "JAGJ": [
+    {
+      "RegionCode": "JAGJ",
+      "RegionName": "Jiaganj",
+      "SubRegionCode": "JAGJ",
+      "SubRegionName": "Jiaganj"
+    }
+  ],
+  "JODH": [
+    {
+      "RegionCode": "JODH",
+      "RegionName": "Jodhpur",
+      "SubRegionCode": "JODH",
+      "SubRegionName": "Jodhpur"
+    }
+  ],
+  "JORT": [
+    {
+      "RegionCode": "JORT",
+      "RegionName": "Jorhat",
+      "SubRegionCode": "JORT",
+      "SubRegionName": "Jorhat"
+    }
+  ],
+  "JUGH": [
+    {
+      "RegionCode": "JUGH",
+      "RegionName": "Junagadh",
+      "SubRegionCode": "JUGH",
+      "SubRegionName": "Junagadh"
+    }
+  ],
+  "KDPA": [
+    {
+      "RegionCode": "KDPA",
+      "RegionName": "Kadapa",
+      "SubRegionCode": "KDPA",
+      "SubRegionName": "Kadapa"
+    }
+  ],
+  "KADI": [
+    {
+      "RegionCode": "KADI",
+      "RegionName": "Kadi",
+      "SubRegionCode": "KADI",
+      "SubRegionName": "Kadi"
+    }
+  ],
+  "KADR": [
+    {
+      "RegionCode": "KADR",
+      "RegionName": "Kadiri",
+      "SubRegionCode": "KADR",
+      "SubRegionName": "Kadiri"
+    }
+  ],
+  "KADT": [
+    {
+      "RegionCode": "KADT",
+      "RegionName": "Kadthal",
+      "SubRegionCode": "KADT",
+      "SubRegionName": "Kadthal"
+    }
+  ],
+  "KAIT": [
+    {
+      "RegionCode": "KAIT",
+      "RegionName": "Kaithal",
+      "SubRegionCode": "KAIT",
+      "SubRegionName": "Kaithal"
+    }
+  ],
+  "KAKI": [
+    {
+      "RegionCode": "KAKI",
+      "RegionName": "Kakinada",
+      "SubRegionCode": "KAKI",
+      "SubRegionName": "Kakinada"
+    }
+  ],
+  "GULB": [
+    {
+      "RegionCode": "GULB",
+      "RegionName": "Kalaburagi (Gulbarga)",
+      "SubRegionCode": "GULB",
+      "SubRegionName": "Kalaburagi (Gulbarga)"
+    }
+  ],
+  "KALI": [
+    {
+      "RegionCode": "KALI",
+      "RegionName": "Kalimpong",
+      "SubRegionCode": "KALI",
+      "SubRegionName": "Kalimpong"
+    }
+  ],
+  "GRAD": [
+    {
+      "RegionCode": "GRAD",
+      "RegionName": "Kaliningrad",
+      "SubRegionCode": "GRAD",
+      "SubRegionName": "Kaliningrad"
+    }
+  ],
+  "KALG": [
+    {
+      "RegionCode": "KALG",
+      "RegionName": "Kalol (Gandhinagar)",
+      "SubRegionCode": "KALG",
+      "SubRegionName": "Kalol (Gandhinagar)"
+    }
+  ],
+  "PANH": [
+    {
+      "RegionCode": "PANH",
+      "RegionName": "Kalol (Panchmahal)",
+      "SubRegionCode": "PANH",
+      "SubRegionName": "Kalol (Panchmahal)"
+    }
+  ],
+  "KALW": [
+    {
+      "RegionCode": "KALW",
+      "RegionName": "Kalwakurthy",
+      "SubRegionCode": "KALW",
+      "SubRegionName": "Kalwakurthy"
+    }
+  ],
+  "KALY": [
+    {
+      "RegionCode": "KALY",
+      "RegionName": "Kalyani",
+      "SubRegionCode": "KALY",
+      "SubRegionName": "Kalyani"
+    }
+  ],
+  "KMLR": [
+    {
+      "RegionCode": "KMLR",
+      "RegionName": "Kamalapur",
+      "SubRegionCode": "KMLR",
+      "SubRegionName": "Kamalapur"
+    }
+  ],
+  "KMRD": [
+    {
+      "RegionCode": "KMRD",
+      "RegionName": "Kamareddy",
+      "SubRegionCode": "KMRD",
+      "SubRegionName": "Kamareddy"
+    }
+  ],
+  "KAND": [
+    {
+      "RegionCode": "KAND",
+      "RegionName": "Kandukur",
+      "SubRegionCode": "KAND",
+      "SubRegionName": "Kandukur"
+    }
+  ],
+  "KKNN": [
+    {
+      "RegionCode": "KKNN",
+      "RegionName": "Kanhangad",
+      "SubRegionCode": "KKNN",
+      "SubRegionName": "Kanhangad"
+    }
+  ],
+  "KAAM": [
+    {
+      "RegionCode": "KAAM",
+      "RegionName": "Kanipakam",
+      "SubRegionCode": "KAAM",
+      "SubRegionName": "Kanipakam"
+    }
+  ],
+  "KANK": [
+    {
+      "RegionCode": "KANK",
+      "RegionName": "Kanker",
+      "SubRegionCode": "KANK",
+      "SubRegionName": "Kanker"
+    }
+  ],
+  "KADU": [
+    {
+      "RegionCode": "KADU",
+      "RegionName": "Kankipadu",
+      "SubRegionCode": "KADU",
+      "SubRegionName": "Kankipadu"
+    }
+  ],
+  "KANP": [
+    {
+      "RegionCode": "KANP",
+      "RegionName": "Kanpur",
+      "SubRegionCode": "KANP",
+      "SubRegionName": "Kanpur"
+    }
+  ],
+  "KARD": [
+    {
+      "RegionCode": "KARD",
+      "RegionName": "Karad",
+      "SubRegionCode": "KARD",
+      "SubRegionName": "Karad"
+    }
+  ],
+  "KARE": [
+    {
+      "RegionCode": "KARE",
+      "RegionName": "Kareli",
+      "SubRegionCode": "KARE",
+      "SubRegionName": "Kareli"
+    }
+  ],
+  "KRNJ": [
+    {
+      "RegionCode": "KRNJ",
+      "RegionName": "Karimganj",
+      "SubRegionCode": "KRNJ",
+      "SubRegionName": "Karimganj"
+    }
+  ],
+  "KARIM": [
+    {
+      "RegionCode": "KARIM",
+      "RegionName": "Karimnagar",
+      "SubRegionCode": "KARIM",
+      "SubRegionName": "Karimnagar"
+    }
+  ],
+  "KART": [
+    {
+      "RegionCode": "KART",
+      "RegionName": "Karjat",
+      "SubRegionCode": "KART",
+      "SubRegionName": "Karjat"
+    }
+  ],
+  "KARK": [
+    {
+      "RegionCode": "KARK",
+      "RegionName": "Karkala",
+      "SubRegionCode": "KARK",
+      "SubRegionName": "Karkala"
+    }
+  ],
+  "KARN": [
+    {
+      "RegionCode": "KARN",
+      "RegionName": "Karnal",
+      "SubRegionCode": "KARN",
+      "SubRegionName": "Karnal"
+    }
+  ],
+  "KASA": [
+    {
+      "RegionCode": "KASA",
+      "RegionName": "Kasaragod",
+      "SubRegionCode": "KASA",
+      "SubRegionName": "Kasaragod"
+    }
+  ],
+  "KASH": [
+    {
+      "RegionCode": "KASH",
+      "RegionName": "Kashipur",
+      "SubRegionCode": "KASH",
+      "SubRegionName": "Kashipur"
+    }
+  ],
+  "KATM": [
+    {
+      "RegionCode": "KATM",
+      "RegionName": "Kathmandu",
+      "SubRegionCode": "KATM",
+      "SubRegionName": "Kathmandu"
+    }
+  ],
+  "KATH": [
+    {
+      "RegionCode": "KATH",
+      "RegionName": "Kathua",
+      "SubRegionCode": "KATH",
+      "SubRegionName": "Kathua"
+    }
+  ],
+  "KATI": [
+    {
+      "RegionCode": "KATI",
+      "RegionName": "Katihar",
+      "SubRegionCode": "KATI",
+      "SubRegionName": "Katihar"
+    }
+  ],
+  "KAWA": [
+    {
+      "RegionCode": "KAWA",
+      "RegionName": "Kawardha",
+      "SubRegionCode": "KAWA",
+      "SubRegionName": "Kawardha"
+    }
+  ],
+  "KAZE": [
+    {
+      "RegionCode": "KAZE",
+      "RegionName": "Kazan",
+      "SubRegionCode": "KAZE",
+      "SubRegionName": "Kazan"
+    }
+  ],
+  "KEKR": [
+    {
+      "RegionCode": "KEKR",
+      "RegionName": "Kekri",
+      "SubRegionCode": "KEKR",
+      "SubRegionName": "Kekri"
+    }
+  ],
+  "KNJH": [
+    {
+      "RegionCode": "KNJH",
+      "RegionName": "Keonjhar",
+      "SubRegionCode": "KNJH",
+      "SubRegionName": "Keonjhar"
+    }
+  ],
+  "KHCU": [
+    {
+      "RegionCode": "KHCU",
+      "RegionName": "Khachrod",
+      "SubRegionCode": "KHCU",
+      "SubRegionName": "Khachrod"
+    }
+  ],
+  "KHBH": [
+    {
+      "RegionCode": "KHBH",
+      "RegionName": "Khambhat",
+      "SubRegionCode": "KHBH",
+      "SubRegionName": "Khambhat"
+    }
+  ],
+  "KHAM": [
+    {
+      "RegionCode": "KHAM",
+      "RegionName": "Khammam",
+      "SubRegionCode": "KHAM",
+      "SubRegionName": "Khammam"
+    }
+  ],
+  "KHDW": [
+    {
+      "RegionCode": "KHDW",
+      "RegionName": "Khandwa",
+      "SubRegionCode": "KHDW",
+      "SubRegionName": "Khandwa"
+    }
+  ],
+  "KHAN": [
+    {
+      "RegionCode": "KHAN",
+      "RegionName": "Khanna",
+      "SubRegionCode": "KHAN",
+      "SubRegionName": "Khanna"
+    }
+  ],
+  "KGPR": [
+    {
+      "RegionCode": "KGPR",
+      "RegionName": "Kharagpur",
+      "SubRegionCode": "KGPR",
+      "SubRegionName": "Kharagpur"
+    }
+  ],
+  "KHOP": [
+    {
+      "RegionCode": "KHOP",
+      "RegionName": "Khopoli",
+      "SubRegionCode": "KHOP",
+      "SubRegionName": "Khopoli"
+    }
+  ],
+  "KCHA": [
+    {
+      "RegionCode": "KCHA",
+      "RegionName": "Kichha",
+      "SubRegionCode": "KCHA",
+      "SubRegionName": "Kichha"
+    }
+  ],
+  "KISH": [
+    {
+      "RegionCode": "KISH",
+      "RegionName": "Kishangarh",
+      "SubRegionCode": "KISH",
+      "SubRegionName": "Kishangarh"
+    }
+  ],
+  "KODA": [
+    {
+      "RegionCode": "KODA",
+      "RegionName": "Kodad",
+      "SubRegionCode": "KODA",
+      "SubRegionName": "Kodad"
+    }
+  ],
+  "COOR": [
+    {
+      "RegionCode": "COOR",
+      "RegionName": "Kodagu (Coorg)",
+      "SubRegionCode": "COOR",
+      "SubRegionName": "Kodagu (Coorg)"
+    }
+  ],
+  "KODU": [
+    {
+      "RegionCode": "KODU",
+      "RegionName": "Kodungallur",
+      "SubRegionCode": "KODU",
+      "SubRegionName": "Kodungallur"
+    }
+  ],
+  "KOLH": [
+    {
+      "RegionCode": "KOLH",
+      "RegionName": "Kolhapur",
+      "SubRegionCode": "KOLH",
+      "SubRegionName": "Kolhapur"
+    }
+  ],
+  "KOLL": [
+    {
+      "RegionCode": "KOLL",
+      "RegionName": "Kollapur",
+      "SubRegionCode": "KOLL",
+      "SubRegionName": "Kollapur"
+    }
+  ],
+  "KNGN": [
+    {
+      "RegionCode": "KNGN",
+      "RegionName": "Kondagaon",
+      "SubRegionCode": "KNGN",
+      "SubRegionName": "Kondagaon"
+    }
+  ],
+  "KOTA": [
+    {
+      "RegionCode": "KOTA",
+      "RegionName": "Kota",
+      "SubRegionCode": "KOTA",
+      "SubRegionName": "Kota"
+    }
+  ],
+  "KTGM": [
+    {
+      "RegionCode": "KTGM",
+      "RegionName": "Kothagudem",
+      "SubRegionCode": "KTGM",
+      "SubRegionName": "Kothagudem"
+    }
+  ],
+  "KOTL": [
+    {
+      "RegionCode": "KOTL",
+      "RegionName": "Kothakota",
+      "SubRegionCode": "KOTL",
+      "SubRegionName": "Kothakota"
+    }
+  ],
+  "KTYM": [
+    {
+      "RegionCode": "KTYM",
+      "RegionName": "Kottayam",
+      "SubRegionCode": "KTYM",
+      "SubRegionName": "Kottayam"
+    }
+  ],
+  "KOVU": [
+    {
+      "RegionCode": "KOVU",
+      "RegionName": "Kovvur",
+      "SubRegionCode": "KOVU",
+      "SubRegionName": "Kovvur"
+    }
+  ],
+  "KNWB": [
+    {
+      "RegionCode": "KNWB",
+      "RegionName": "Krishnanagar",
+      "SubRegionCode": "KNWB",
+      "SubRegionName": "Krishnanagar"
+    }
+  ],
+  "KEKE": [
+    {
+      "RegionCode": "KEKE",
+      "RegionName": "Krishnarajpete (K.R.Pete)",
+      "SubRegionCode": "KEKE",
+      "SubRegionName": "Krishnarajpete (K.R.Pete)"
+    }
+  ],
+  "KUKS": [
+    {
+      "RegionCode": "KUKS",
+      "RegionName": "Kukshi",
+      "SubRegionCode": "KUKS",
+      "SubRegionName": "Kukshi"
+    }
+  ],
+  "KULU": [
+    {
+      "RegionCode": "KULU",
+      "RegionName": "Kullu",
+      "SubRegionCode": "KULU",
+      "SubRegionName": "Kullu"
+    }
+  ],
+  "KUMB": [
+    {
+      "RegionCode": "KUMB",
+      "RegionName": "Kumbakonam",
+      "SubRegionCode": "KUMB",
+      "SubRegionName": "Kumbakonam"
+    }
+  ],
+  "KUNN": [
+    {
+      "RegionCode": "KUNN",
+      "RegionName": "Kunnamkulam",
+      "SubRegionCode": "KUNN",
+      "SubRegionName": "Kunnamkulam"
+    }
+  ],
+  "KURN": [
+    {
+      "RegionCode": "KURN",
+      "RegionName": "Kurnool",
+      "SubRegionCode": "KURN",
+      "SubRegionName": "Kurnool"
+    }
+  ],
+  "KURU": [
+    {
+      "RegionCode": "KURU",
+      "RegionName": "Kurukshetra",
+      "SubRegionCode": "KURU",
+      "SubRegionName": "Kurukshetra"
+    }
+  ],
+  "KUSH": [
+    {
+      "RegionCode": "KUSH",
+      "RegionName": "Kushinagar",
+      "SubRegionCode": "KUSH",
+      "SubRegionName": "Kushinagar"
+    }
+  ],
+  "LAHA": [
+    {
+      "RegionCode": "LAHA",
+      "RegionName": "Lakhimpur",
+      "SubRegionCode": "LAHA",
+      "SubRegionName": "Lakhimpur"
+    }
+  ],
+  "LAT": [
+    {
+      "RegionCode": "LAT",
+      "RegionName": "Latur",
+      "SubRegionCode": "LAT",
+      "SubRegionName": "Latur"
+    }
+  ],
+  "LNVL": [
+    {
+      "RegionCode": "LNVL",
+      "RegionName": "Lonavala",
+      "SubRegionCode": "LNVL",
+      "SubRegionName": "Lonavala"
+    }
+  ],
+  "LONI": [
+    {
+      "RegionCode": "LONI",
+      "RegionName": "Loni",
+      "SubRegionCode": "LONI",
+      "SubRegionName": "Loni"
+    }
+  ],
+  "LUCK": [
+    {
+      "RegionCode": "LUCK",
+      "RegionName": "Lucknow",
+      "SubRegionCode": "LUCK",
+      "SubRegionName": "Lucknow"
+    }
+  ],
+  "LUDH": [
+    {
+      "RegionCode": "LUDH",
+      "RegionName": "Ludhiana",
+      "SubRegionCode": "LUDH",
+      "SubRegionName": "Ludhiana"
+    }
+  ],
+  "MACH": [
+    {
+      "RegionCode": "MACH",
+      "RegionName": "Macherla",
+      "SubRegionCode": "MACH",
+      "SubRegionName": "Macherla"
+    }
+  ],
+  "MAPM": [
+    {
+      "RegionCode": "MAPM",
+      "RegionName": "Machilipatnam",
+      "SubRegionCode": "MAPM",
+      "SubRegionName": "Machilipatnam"
+    }
+  ],
+  "MADR": [
+    {
+      "RegionCode": "MADR",
+      "RegionName": "Madhira",
+      "SubRegionCode": "MADR",
+      "SubRegionName": "Madhira"
+    }
+  ],
+  "MADU": [
+    {
+      "RegionCode": "MADU",
+      "RegionName": "Madurai",
+      "SubRegionCode": "MADU",
+      "SubRegionName": "Madurai"
+    }
+  ],
+  "MHAD": [
+    {
+      "RegionCode": "MHAD",
+      "RegionName": "Mahad",
+      "SubRegionCode": "MHAD",
+      "SubRegionName": "Mahad"
+    }
+  ],
+  "MAHB": [
+    {
+      "RegionCode": "MAHB",
+      "RegionName": "Mahbubnagar",
+      "SubRegionCode": "MAHB",
+      "SubRegionName": "Mahbubnagar"
+    }
+  ],
+  "MALE": [
+    {
+      "RegionCode": "MALE",
+      "RegionName": "Malegaon",
+      "SubRegionCode": "MALE",
+      "SubRegionName": "Malegaon"
+    }
+  ],
+  "MAAL": [
+    {
+      "RegionCode": "MAAL",
+      "RegionName": "Mall",
+      "SubRegionCode": "MAAL",
+      "SubRegionName": "Mall"
+    }
+  ],
+  "MALO": [
+    {
+      "RegionCode": "MALO",
+      "RegionName": "Malout",
+      "SubRegionCode": "MALO",
+      "SubRegionName": "Malout"
+    }
+  ],
+  "MANA": [
+    {
+      "RegionCode": "MANA",
+      "RegionName": "Manali",
+      "SubRegionCode": "MANA",
+      "SubRegionName": "Manali"
+    }
+  ],
+  "MANW": [
+    {
+      "RegionCode": "MANW",
+      "RegionName": "Manawar",
+      "SubRegionCode": "MANW",
+      "SubRegionName": "Manawar"
+    }
+  ],
+  "MANC": [
+    {
+      "RegionCode": "MANC",
+      "RegionName": "Mancherial",
+      "SubRegionCode": "MANC",
+      "SubRegionName": "Mancherial"
+    }
+  ],
+  "MDAS": [
+    {
+      "RegionCode": "MDAS",
+      "RegionName": "Mandasa",
+      "SubRegionCode": "MDAS",
+      "SubRegionName": "Mandasa"
+    }
+  ],
+  "MADL": [
+    {
+      "RegionCode": "MADL",
+      "RegionName": "Mandla",
+      "SubRegionCode": "MADL",
+      "SubRegionName": "Mandla"
+    }
+  ],
+  "MNDS": [
+    {
+      "RegionCode": "MNDS",
+      "RegionName": "Mandsaur",
+      "SubRegionCode": "MNDS",
+      "SubRegionName": "Mandsaur"
+    }
+  ],
+  "MGLR": [
+    {
+      "RegionCode": "MGLR",
+      "RegionName": "Mangalagiri",
+      "SubRegionCode": "MGLR",
+      "SubRegionName": "Mangalagiri"
+    }
+  ],
+  "MANG": [
+    {
+      "RegionCode": "MANG",
+      "RegionName": "Mangaldoi",
+      "SubRegionCode": "MANG",
+      "SubRegionName": "Mangaldoi"
+    }
+  ],
+  "MLR": [
+    {
+      "RegionCode": "MLR",
+      "RegionName": "Mangaluru (Mangalore)",
+      "SubRegionCode": "MLR",
+      "SubRegionName": "Mangaluru (Mangalore)"
+    }
+  ],
+  "MANI": [
+    {
+      "RegionCode": "MANI",
+      "RegionName": "Manipal",
+      "SubRegionCode": "MANI",
+      "SubRegionName": "Manipal"
+    }
+  ],
+  "MNMD": [
+    {
+      "RegionCode": "MNMD",
+      "RegionName": "Manmad",
+      "SubRegionCode": "MNMD",
+      "SubRegionName": "Manmad"
+    }
+  ],
+  "MNSA": [
+    {
+      "RegionCode": "MNSA",
+      "RegionName": "Mansa",
+      "SubRegionCode": "MNSA",
+      "SubRegionName": "Mansa"
+    }
+  ],
+  "MARR": [
+    {
+      "RegionCode": "MARR",
+      "RegionName": "Marripeda",
+      "SubRegionCode": "MARR",
+      "SubRegionName": "Marripeda"
+    }
+  ],
+  "MART": [
+    {
+      "RegionCode": "MART",
+      "RegionName": "Martur",
+      "SubRegionCode": "MART",
+      "SubRegionName": "Martur"
+    }
+  ],
+  "MVLR": [
+    {
+      "RegionCode": "MVLR",
+      "RegionName": "Mavellikara",
+      "SubRegionCode": "MVLR",
+      "SubRegionName": "Mavellikara"
+    }
+  ],
+  "MERT": [
+    {
+      "RegionCode": "MERT",
+      "RegionName": "Meerut",
+      "SubRegionCode": "MERT",
+      "SubRegionName": "Meerut"
+    }
+  ],
+  "MEHS": [
+    {
+      "RegionCode": "MEHS",
+      "RegionName": "Mehsana",
+      "SubRegionCode": "MEHS",
+      "SubRegionName": "Mehsana"
+    }
+  ],
+  "MMRR": [
+    {
+      "RegionCode": "MMRR",
+      "RegionName": "Memari",
+      "SubRegionCode": "MMRR",
+      "SubRegionName": "Memari"
+    }
+  ],
+  "MIZP": [
+    {
+      "RegionCode": "MIZP",
+      "RegionName": "Mirzapur",
+      "SubRegionCode": "MIZP",
+      "SubRegionName": "Mirzapur"
+    }
+  ],
+  "MOHL": [
+    {
+      "RegionCode": "MOHL",
+      "RegionName": "Mohali",
+      "SubRegionCode": "MOHL",
+      "SubRegionName": "Mohali"
+    }
+  ],
+  "MOOD": [
+    {
+      "RegionCode": "MOOD",
+      "RegionName": "Moodbidri",
+      "SubRegionCode": "MOOD",
+      "SubRegionName": "Moodbidri"
+    }
+  ],
+  "MORA": [
+    {
+      "RegionCode": "MORA",
+      "RegionName": "Moradabad",
+      "SubRegionCode": "MORA",
+      "SubRegionName": "Moradabad"
+    }
+  ],
+  "MORH": [
+    {
+      "RegionCode": "MORH",
+      "RegionName": "Moranhat",
+      "SubRegionCode": "MORH",
+      "SubRegionName": "Moranhat"
+    }
+  ],
+  "MRMP": [
+    {
+      "RegionCode": "MRMP",
+      "RegionName": "Morena",
+      "SubRegionCode": "MRMP",
+      "SubRegionName": "Morena"
+    }
+  ],
+  "MORI": [
+    {
+      "RegionCode": "MORI",
+      "RegionName": "Morinda",
+      "SubRegionCode": "MORI",
+      "SubRegionName": "Morinda"
+    }
+  ],
+  "MOSC": [
+    {
+      "RegionCode": "MOSC",
+      "RegionName": "Moscow",
+      "SubRegionCode": "MOSC",
+      "SubRegionName": "Moscow"
+    }
+  ],
+  "MOTI": [
+    {
+      "RegionCode": "MOTI",
+      "RegionName": "Motihari",
+      "SubRegionCode": "MOTI",
+      "SubRegionName": "Motihari"
+    }
+  ],
+  "MAYN": [
+    {
+      "RegionCode": "MAYN",
+      "RegionName": "Moyna",
+      "SubRegionCode": "MAYN",
+      "SubRegionName": "Moyna"
+    }
+  ],
+  "MGSI": [
+    {
+      "RegionCode": "MGSI",
+      "RegionName": "Mughalsarai",
+      "SubRegionCode": "MGSI",
+      "SubRegionName": "Mughalsarai"
+    }
+  ],
+  "MKST": [
+    {
+      "RegionCode": "MKST",
+      "RegionName": "Muktsar",
+      "SubRegionCode": "MKST",
+      "SubRegionName": "Muktsar"
+    }
+  ],
+  "MULK": [
+    {
+      "RegionCode": "MULK",
+      "RegionName": "Mulkanoor",
+      "SubRegionCode": "MULK",
+      "SubRegionName": "Mulkanoor"
+    }
+  ],
+  "GHNP": [
+    {
+      "RegionCode": "GHNP",
+      "RegionName": "Mulugu Ghanpur",
+      "SubRegionCode": "GHNP",
+      "SubRegionName": "Mulugu Ghanpur"
+    }
+  ],
+  "MUNI": [
+    {
+      "RegionCode": "MUNI",
+      "RegionName": "Muniguda",
+      "SubRegionCode": "MUNI",
+      "SubRegionName": "Muniguda"
+    }
+  ],
+  "MUVA": [
+    {
+      "RegionCode": "MUVA",
+      "RegionName": "Muvattupuzha",
+      "SubRegionCode": "MUVA",
+      "SubRegionName": "Muvattupuzha"
+    }
+  ],
+  "MUZ": [
+    {
+      "RegionCode": "MUZ",
+      "RegionName": "Muzaffarnagar",
+      "SubRegionCode": "MUZ",
+      "SubRegionName": "Muzaffarnagar"
+    }
+  ],
+  "MUZA": [
+    {
+      "RegionCode": "MUZA",
+      "RegionName": "Muzaffarpur",
+      "SubRegionCode": "MUZA",
+      "SubRegionName": "Muzaffarpur"
+    }
+  ],
+  "MYDU": [
+    {
+      "RegionCode": "MYDU",
+      "RegionName": "Mydukur",
+      "SubRegionCode": "MYDU",
+      "SubRegionName": "Mydukur"
+    }
+  ],
+  "MYS": [
+    {
+      "RegionCode": "MYS",
+      "RegionName": "Mysuru (Mysore)",
+      "SubRegionCode": "MYS",
+      "SubRegionName": "Mysuru (Mysore)"
+    }
+  ],
+  "NABB": [
+    {
+      "RegionCode": "NABB",
+      "RegionName": "Nabadwip",
+      "SubRegionCode": "NABB",
+      "SubRegionName": "Nabadwip"
+    }
+  ],
+  "NADI": [
+    {
+      "RegionCode": "NADI",
+      "RegionName": "Nadiad",
+      "SubRegionCode": "NADI",
+      "SubRegionName": "Nadiad"
+    }
+  ],
+  "NAAM": [
+    {
+      "RegionCode": "NAAM",
+      "RegionName": "Nagaon",
+      "SubRegionCode": "NAAM",
+      "SubRegionName": "Nagaon"
+    }
+  ],
+  "NGKL": [
+    {
+      "RegionCode": "NGKL",
+      "RegionName": "Nagarkurnool",
+      "SubRegionCode": "NGKL",
+      "SubRegionName": "Nagarkurnool"
+    }
+  ],
+  "NAGE": [
+    {
+      "RegionCode": "NAGE",
+      "RegionName": "Nagercoil",
+      "SubRegionCode": "NAGE",
+      "SubRegionName": "Nagercoil"
+    }
+  ],
+  "NAGO": [
+    {
+      "RegionCode": "NAGO",
+      "RegionName": "Nagothane",
+      "SubRegionCode": "NAGO",
+      "SubRegionName": "Nagothane"
+    }
+  ],
+  "NAGP": [
+    {
+      "RegionCode": "NAGP",
+      "RegionName": "Nagpur",
+      "SubRegionCode": "NAGP",
+      "SubRegionName": "Nagpur"
+    }
+  ],
+  "NKHT": [
+    {
+      "RegionCode": "NKHT",
+      "RegionName": "Nakhatrana",
+      "SubRegionCode": "NKHT",
+      "SubRegionName": "Nakhatrana"
+    }
+  ],
+  "NAKO": [
+    {
+      "RegionCode": "NAKO",
+      "RegionName": "Nakodar",
+      "SubRegionCode": "NAKO",
+      "SubRegionName": "Nakodar"
+    }
+  ],
+  "NALK": [
+    {
+      "RegionCode": "NALK",
+      "RegionName": "Nalgonda",
+      "SubRegionCode": "NALK",
+      "SubRegionName": "Nalgonda"
+    }
+  ],
+  "NAND": [
+    {
+      "RegionCode": "NAND",
+      "RegionName": "Nanded",
+      "SubRegionCode": "NAND",
+      "SubRegionName": "Nanded"
+    }
+  ],
+  "NDNB": [
+    {
+      "RegionCode": "NDNB",
+      "RegionName": "Nandurbar",
+      "SubRegionCode": "NDNB",
+      "SubRegionName": "Nandurbar"
+    }
+  ],
+  "NADY": [
+    {
+      "RegionCode": "NADY",
+      "RegionName": "Nandyal",
+      "SubRegionCode": "NADY",
+      "SubRegionName": "Nandyal"
+    }
+  ],
+  "NRPT": [
+    {
+      "RegionCode": "NRPT",
+      "RegionName": "Narasannapeta",
+      "SubRegionCode": "NRPT",
+      "SubRegionName": "Narasannapeta"
+    }
+  ],
+  "NSPT": [
+    {
+      "RegionCode": "NSPT",
+      "RegionName": "Narasaraopet",
+      "SubRegionCode": "NSPT",
+      "SubRegionName": "Narasaraopet"
+    }
+  ],
+  "NRYN": [
+    {
+      "RegionCode": "NRYN",
+      "RegionName": "Narayanpet",
+      "SubRegionCode": "NRYN",
+      "SubRegionName": "Narayanpet"
+    }
+  ],
+  "NASP": [
+    {
+      "RegionCode": "NASP",
+      "RegionName": "Narsampet",
+      "SubRegionCode": "NASP",
+      "SubRegionName": "Narsampet"
+    }
+  ],
+  "NARP": [
+    {
+      "RegionCode": "NARP",
+      "RegionName": "Narsapur",
+      "SubRegionCode": "NARP",
+      "SubRegionName": "Narsapur"
+    }
+  ],
+  "NARR": [
+    {
+      "RegionCode": "NARR",
+      "RegionName": "Narsinghpur",
+      "SubRegionCode": "NARR",
+      "SubRegionName": "Narsinghpur"
+    }
+  ],
+  "NARS": [
+    {
+      "RegionCode": "NARS",
+      "RegionName": "Narsipatnam",
+      "SubRegionCode": "NARS",
+      "SubRegionName": "Narsipatnam"
+    }
+  ],
+  "NASK": [
+    {
+      "RegionCode": "NASK",
+      "RegionName": "Nashik",
+      "SubRegionCode": "NASK",
+      "SubRegionName": "Nashik"
+    }
+  ],
+  "NAUT": [
+    {
+      "RegionCode": "NAUT",
+      "RegionName": "Nautanwa",
+      "SubRegionCode": "NAUT",
+      "SubRegionName": "Nautanwa"
+    }
+  ],
+  "NAVN": [
+    {
+      "RegionCode": "NAVN",
+      "RegionName": "Nawanshahr",
+      "SubRegionCode": "NAVN",
+      "SubRegionName": "Nawanshahr"
+    }
+  ],
+  "NMCH": [
+    {
+      "RegionCode": "NMCH",
+      "RegionName": "Neemuch",
+      "SubRegionCode": "NMCH",
+      "SubRegionName": "Neemuch"
+    }
+  ],
+  "NELA": [
+    {
+      "RegionCode": "NELA",
+      "RegionName": "Nelakondapalli",
+      "SubRegionCode": "NELA",
+      "SubRegionName": "Nelakondapalli"
+    }
+  ],
+  "NELL": [
+    {
+      "RegionCode": "NELL",
+      "RegionName": "Nellore",
+      "SubRegionCode": "NELL",
+      "SubRegionName": "Nellore"
+    }
+  ],
+  "NDVD": [
+    {
+      "RegionCode": "NDVD",
+      "RegionName": "Nidadavolu",
+      "SubRegionCode": "NDVD",
+      "SubRegionName": "Nidadavolu"
+    }
+  ],
+  "NIPA": [
+    {
+      "RegionCode": "NIPA",
+      "RegionName": "Nimbahera",
+      "SubRegionCode": "NIPA",
+      "SubRegionName": "Nimbahera"
+    }
+  ],
+  "NIZA": [
+    {
+      "RegionCode": "NIZA",
+      "RegionName": "Nizamabad",
+      "SubRegionCode": "NIZA",
+      "SubRegionName": "Nizamabad"
+    }
+  ],
+  "NINO": [
+    {
+      "RegionCode": "NINO",
+      "RegionName": "Nizhny Novgorod",
+      "SubRegionCode": "NINO",
+      "SubRegionName": "Nizhny Novgorod"
+    }
+  ],
+  "NZVD": [
+    {
+      "RegionCode": "NZVD",
+      "RegionName": "Nuzvid",
+      "SubRegionCode": "NZVD",
+      "SubRegionName": "Nuzvid"
+    }
+  ],
+  "ONGL": [
+    {
+      "RegionCode": "ONGL",
+      "RegionName": "Ongole",
+      "SubRegionCode": "ONGL",
+      "SubRegionName": "Ongole"
+    }
+  ],
+  "OSMA": [
+    {
+      "RegionCode": "OSMA",
+      "RegionName": "Osmanabad",
+      "SubRegionCode": "OSMA",
+      "SubRegionName": "Osmanabad"
+    }
+  ],
+  "PALL": [
+    {
+      "RegionCode": "PALL",
+      "RegionName": "Pala",
+      "SubRegionCode": "PALL",
+      "SubRegionName": "Pala"
+    }
+  ],
+  "PLKK": [
+    {
+      "RegionCode": "PLKK",
+      "RegionName": "Palakkad",
+      "SubRegionCode": "PLKK",
+      "SubRegionName": "Palakkad"
+    }
+  ],
+  "PLKL": [
+    {
+      "RegionCode": "PLKL",
+      "RegionName": "Palakollu",
+      "SubRegionCode": "PLKL",
+      "SubRegionName": "Palakollu"
+    }
+  ],
+  "PALK": [
+    {
+      "RegionCode": "PALK",
+      "RegionName": "Palakonda",
+      "SubRegionCode": "PALK",
+      "SubRegionName": "Palakonda"
+    }
+  ],
+  "PALM": [
+    {
+      "RegionCode": "PALM",
+      "RegionName": "Palampur",
+      "SubRegionCode": "PALM",
+      "SubRegionName": "Palampur"
+    }
+  ],
+  "PALN": [
+    {
+      "RegionCode": "PALN",
+      "RegionName": "Palanpur",
+      "SubRegionCode": "PALN",
+      "SubRegionName": "Palanpur"
+    }
+  ],
+  "PALS": [
+    {
+      "RegionCode": "PALS",
+      "RegionName": "Palasa",
+      "SubRegionCode": "PALS",
+      "SubRegionName": "Palasa"
+    }
+  ],
+  "PLWA": [
+    {
+      "RegionCode": "PLWA",
+      "RegionName": "Palvancha",
+      "SubRegionCode": "PLWA",
+      "SubRegionName": "Palvancha"
+    }
+  ],
+  "PLWL": [
+    {
+      "RegionCode": "PLWL",
+      "RegionName": "Palwal",
+      "SubRegionCode": "PLWL",
+      "SubRegionName": "Palwal"
+    }
+  ],
+  "PAVA": [
+    {
+      "RegionCode": "PAVA",
+      "RegionName": "Pandavapura",
+      "SubRegionCode": "PAVA",
+      "SubRegionName": "Pandavapura"
+    }
+  ],
+  "PNDH": [
+    {
+      "RegionCode": "PNDH",
+      "RegionName": "Pandharpur",
+      "SubRegionCode": "PNDH",
+      "SubRegionName": "Pandharpur"
+    }
+  ],
+  "PAN": [
+    {
+      "RegionCode": "PAN",
+      "RegionName": "Panipat",
+      "SubRegionCode": "PAN",
+      "SubRegionName": "Panipat"
+    }
+  ],
+  "PRKM": [
+    {
+      "RegionCode": "PRKM",
+      "RegionName": "Paralakhemundi",
+      "SubRegionCode": "PRKM",
+      "SubRegionName": "Paralakhemundi"
+    }
+  ],
+  "PARA": [
+    {
+      "RegionCode": "PARA",
+      "RegionName": "Paratwada",
+      "SubRegionCode": "PARA",
+      "SubRegionName": "Paratwada"
+    }
+  ],
+  "PARB": [
+    {
+      "RegionCode": "PARB",
+      "RegionName": "Parbhani",
+      "SubRegionCode": "PARB",
+      "SubRegionName": "Parbhani"
+    }
+  ],
+  "PARI": [
+    {
+      "RegionCode": "PARI",
+      "RegionName": "Parigi",
+      "SubRegionCode": "PARI",
+      "SubRegionName": "Parigi"
+    }
+  ],
+  "PRLI": [
+    {
+      "RegionCode": "PRLI",
+      "RegionName": "Parli",
+      "SubRegionCode": "PRLI",
+      "SubRegionName": "Parli"
+    }
+  ],
+  "PRVT": [
+    {
+      "RegionCode": "PRVT",
+      "RegionName": "Parvathipuram",
+      "SubRegionCode": "PRVT",
+      "SubRegionName": "Parvathipuram"
+    }
+  ],
+  "PATA": [
+    {
+      "RegionCode": "PATA",
+      "RegionName": "Patan",
+      "SubRegionCode": "PATA",
+      "SubRegionName": "Patan"
+    }
+  ],
+  "PTNM": [
+    {
+      "RegionCode": "PTNM",
+      "RegionName": "Pathanamthitta",
+      "SubRegionCode": "PTNM",
+      "SubRegionName": "Pathanamthitta"
+    }
+  ],
+  "PATH": [
+    {
+      "RegionCode": "PATH",
+      "RegionName": "Pathankot",
+      "SubRegionCode": "PATH",
+      "SubRegionName": "Pathankot"
+    }
+  ],
+  "PATI": [
+    {
+      "RegionCode": "PATI",
+      "RegionName": "Patiala",
+      "SubRegionCode": "PATI",
+      "SubRegionName": "Patiala"
+    }
+  ],
+  "PATN": [
+    {
+      "RegionCode": "PATN",
+      "RegionName": "Patna",
+      "SubRegionCode": "PATN",
+      "SubRegionName": "Patna"
+    }
+  ],
+  "PATR": [
+    {
+      "RegionCode": "PATR",
+      "RegionName": "Patran",
+      "SubRegionCode": "PATR",
+      "SubRegionName": "Patran"
+    }
+  ],
+  "PTMB": [
+    {
+      "RegionCode": "PTMB",
+      "RegionName": "Pattambi",
+      "SubRegionCode": "PTMB",
+      "SubRegionName": "Pattambi"
+    }
+  ],
+  "PAYY": [
+    {
+      "RegionCode": "PAYY",
+      "RegionName": "Payyanur",
+      "SubRegionCode": "PAYY",
+      "SubRegionName": "Payyanur"
+    }
+  ],
+  "PEDA": [
+    {
+      "RegionCode": "PEDA",
+      "RegionName": "Peddapalli",
+      "SubRegionCode": "PEDA",
+      "SubRegionName": "Peddapalli"
+    }
+  ],
+  "PEDP": [
+    {
+      "RegionCode": "PEDP",
+      "RegionName": "Peddapuram",
+      "SubRegionCode": "PEDP",
+      "SubRegionName": "Peddapuram"
+    }
+  ],
+  "PEN": [
+    {
+      "RegionCode": "PEN",
+      "RegionName": "Pen",
+      "SubRegionCode": "PEN",
+      "SubRegionName": "Pen"
+    }
+  ],
+  "PEND": [
+    {
+      "RegionCode": "PEND",
+      "RegionName": "Pendra",
+      "SubRegionCode": "PEND",
+      "SubRegionName": "Pendra"
+    }
+  ],
+  "PNTM": [
+    {
+      "RegionCode": "PNTM",
+      "RegionName": "Perinthalmanna",
+      "SubRegionCode": "PNTM",
+      "SubRegionName": "Perinthalmanna"
+    }
+  ],
+  "PETL": [
+    {
+      "RegionCode": "PETL",
+      "RegionName": "Petlad",
+      "SubRegionCode": "PETL",
+      "SubRegionName": "Petlad"
+    }
+  ],
+  "PIDU": [
+    {
+      "RegionCode": "PIDU",
+      "RegionName": "Piduguralla",
+      "SubRegionCode": "PIDU",
+      "SubRegionName": "Piduguralla"
+    }
+  ],
+  "PIPY": [
+    {
+      "RegionCode": "PIPY",
+      "RegionName": "Pipariya",
+      "SubRegionCode": "PIPY",
+      "SubRegionName": "Pipariya"
+    }
+  ],
+  "PITH": [
+    {
+      "RegionCode": "PITH",
+      "RegionName": "Pithampur",
+      "SubRegionCode": "PITH",
+      "SubRegionName": "Pithampur"
+    }
+  ],
+  "POND": [
+    {
+      "RegionCode": "POND",
+      "RegionName": "Pondicherry",
+      "SubRegionCode": "POND",
+      "SubRegionName": "Pondicherry"
+    }
+  ],
+  "PTRT": [
+    {
+      "RegionCode": "PTRT",
+      "RegionName": "Pratapgarh (Rajasthan)",
+      "SubRegionCode": "PTRT",
+      "SubRegionName": "Pratapgarh (Rajasthan)"
+    }
+  ],
+  "PRAT": [
+    {
+      "RegionCode": "PRAT",
+      "RegionName": "Pratapgarh (UP)",
+      "SubRegionCode": "PRAT",
+      "SubRegionName": "Pratapgarh (UP)"
+    }
+  ],
+  "PROD": [
+    {
+      "RegionCode": "PROD",
+      "RegionName": "Proddatur",
+      "SubRegionCode": "PROD",
+      "SubRegionName": "Proddatur"
+    }
+  ],
+  "PULP": [
+    {
+      "RegionCode": "PULP",
+      "RegionName": "Pulpally",
+      "SubRegionCode": "PULP",
+      "SubRegionName": "Pulpally"
+    }
+  ],
+  "PUNA": [
+    {
+      "RegionCode": "PUNA",
+      "RegionName": "Punalur",
+      "SubRegionCode": "PUNA",
+      "SubRegionName": "Punalur"
+    }
+  ],
+  "PGNR": [
+    {
+      "RegionCode": "PGNR",
+      "RegionName": "Punganur",
+      "SubRegionCode": "PGNR",
+      "SubRegionName": "Punganur"
+    }
+  ],
+  "PURI": [
+    {
+      "RegionCode": "PURI",
+      "RegionName": "Puri",
+      "SubRegionCode": "PURI",
+      "SubRegionName": "Puri"
+    }
+  ],
+  "PURN": [
+    {
+      "RegionCode": "PURN",
+      "RegionName": "Purnea",
+      "SubRegionCode": "PURN",
+      "SubRegionName": "Purnea"
+    }
+  ],
+  "PURU": [
+    {
+      "RegionCode": "PURU",
+      "RegionName": "Purulia",
+      "SubRegionCode": "PURU",
+      "SubRegionName": "Purulia"
+    }
+  ],
+  "PUSD": [
+    {
+      "RegionCode": "PUSD",
+      "RegionName": "Pusad",
+      "SubRegionCode": "PUSD",
+      "SubRegionName": "Pusad"
+    }
+  ],
+  "RAEB": [
+    {
+      "RegionCode": "RAEB",
+      "RegionName": "Raebareli",
+      "SubRegionCode": "RAEB",
+      "SubRegionName": "Raebareli"
+    }
+  ],
+  "RAHU": [
+    {
+      "RegionCode": "RAHU",
+      "RegionName": "Rahuri",
+      "SubRegionCode": "RAHU",
+      "SubRegionName": "Rahuri"
+    }
+  ],
+  "RAIG": [
+    {
+      "RegionCode": "RAIG",
+      "RegionName": "Raigarh",
+      "SubRegionCode": "RAIG",
+      "SubRegionName": "Raigarh"
+    }
+  ],
+  "RLKD": [
+    {
+      "RegionCode": "RLKD",
+      "RegionName": "Railway Koduru",
+      "SubRegionCode": "RLKD",
+      "SubRegionName": "Railway Koduru"
+    }
+  ],
+  "RAIPUR": [
+    {
+      "RegionCode": "RAIPUR",
+      "RegionName": "Raipur",
+      "SubRegionCode": "RAIPUR",
+      "SubRegionName": "Raipur"
+    }
+  ],
+  "RSNG": [
+    {
+      "RegionCode": "RSNG",
+      "RegionName": "Raisinghnagar",
+      "SubRegionCode": "RSNG",
+      "SubRegionName": "Raisinghnagar"
+    }
+  ],
+  "RJMU": [
+    {
+      "RegionCode": "RJMU",
+      "RegionName": "Rajahmundry",
+      "SubRegionCode": "RJMU",
+      "SubRegionName": "Rajahmundry"
+    }
+  ],
+  "RAJK": [
+    {
+      "RegionCode": "RAJK",
+      "RegionName": "Rajkot",
+      "SubRegionCode": "RAJK",
+      "SubRegionName": "Rajkot"
+    }
+  ],
+  "RAJP": [
+    {
+      "RegionCode": "RAJP",
+      "RegionName": "Rajpur",
+      "SubRegionCode": "RAJP",
+      "SubRegionName": "Rajpur"
+    }
+  ],
+  "RARA": [
+    {
+      "RegionCode": "RARA",
+      "RegionName": "Rajpura",
+      "SubRegionCode": "RARA",
+      "SubRegionName": "Rajpura"
+    }
+  ],
+  "RANG": [
+    {
+      "RegionCode": "RANG",
+      "RegionName": "Ramanagara",
+      "SubRegionCode": "RANG",
+      "SubRegionName": "Ramanagara"
+    }
+  ],
+  "RAMP": [
+    {
+      "RegionCode": "RAMP",
+      "RegionName": "Ramayampet",
+      "SubRegionCode": "RAMP",
+      "SubRegionName": "Ramayampet"
+    }
+  ],
+  "RMPR": [
+    {
+      "RegionCode": "RMPR",
+      "RegionName": "Rameswarpur",
+      "SubRegionCode": "RMPR",
+      "SubRegionName": "Rameswarpur"
+    }
+  ],
+  "RAMN": [
+    {
+      "RegionCode": "RAMN",
+      "RegionName": "Ramnagar",
+      "SubRegionCode": "RAMN",
+      "SubRegionName": "Ramnagar"
+    }
+  ],
+  "RANA": [
+    {
+      "RegionCode": "RANA",
+      "RegionName": "Ranaghat",
+      "SubRegionCode": "RANA",
+      "SubRegionName": "Ranaghat"
+    }
+  ],
+  "RANC": [
+    {
+      "RegionCode": "RANC",
+      "RegionName": "Ranchi",
+      "SubRegionCode": "RANC",
+      "SubRegionName": "Ranchi"
+    }
+  ],
+  "RANE": [
+    {
+      "RegionCode": "RANE",
+      "RegionName": "Ranebennur",
+      "SubRegionCode": "RANE",
+      "SubRegionName": "Ranebennur"
+    }
+  ],
+  "RNGJ": [
+    {
+      "RegionCode": "RNGJ",
+      "RegionName": "Raniganj",
+      "SubRegionCode": "RNGJ",
+      "SubRegionName": "Raniganj"
+    }
+  ],
+  "RATL": [
+    {
+      "RegionCode": "RATL",
+      "RegionName": "Ratlam",
+      "SubRegionCode": "RATL",
+      "SubRegionName": "Ratlam"
+    }
+  ],
+  "RATN": [
+    {
+      "RegionCode": "RATN",
+      "RegionName": "Ratnagiri",
+      "SubRegionCode": "RATN",
+      "SubRegionName": "Ratnagiri"
+    }
+  ],
+  "RENU": [
+    {
+      "RegionCode": "RENU",
+      "RegionName": "Renukoot",
+      "SubRegionCode": "RENU",
+      "SubRegionName": "Renukoot"
+    }
+  ],
+  "RKES": [
+    {
+      "RegionCode": "RKES",
+      "RegionName": "Rishikesh",
+      "SubRegionCode": "RKES",
+      "SubRegionName": "Rishikesh"
+    }
+  ],
+  "RSRA": [
+    {
+      "RegionCode": "RSRA",
+      "RegionName": "Rishra",
+      "SubRegionCode": "RSRA",
+      "SubRegionName": "Rishra"
+    }
+  ],
+  "ROH": [
+    {
+      "RegionCode": "ROH",
+      "RegionName": "Rohtak",
+      "SubRegionCode": "ROH",
+      "SubRegionName": "Rohtak"
+    }
+  ],
+  "ROOR": [
+    {
+      "RegionCode": "ROOR",
+      "RegionName": "Roorkee",
+      "SubRegionCode": "ROOR",
+      "SubRegionName": "Roorkee"
+    }
+  ],
+  "RODO": [
+    {
+      "RegionCode": "RODO",
+      "RegionName": "Rostov-on-Don",
+      "SubRegionCode": "RODO",
+      "SubRegionName": "Rostov-on-Don"
+    }
+  ],
+  "RKOR": [
+    {
+      "RegionCode": "RKOR",
+      "RegionName": "Rourkela",
+      "SubRegionCode": "RKOR",
+      "SubRegionName": "Rourkela"
+    }
+  ],
+  "RUDP": [
+    {
+      "RegionCode": "RUDP",
+      "RegionName": "Rudrapur",
+      "SubRegionCode": "RUDP",
+      "SubRegionName": "Rudrapur"
+    }
+  ],
+  "RUPN": [
+    {
+      "RegionCode": "RUPN",
+      "RegionName": "Rupnagar",
+      "SubRegionCode": "RUPN",
+      "SubRegionName": "Rupnagar"
+    }
+  ],
+  "SADA": [
+    {
+      "RegionCode": "SADA",
+      "RegionName": "Sadasivpet",
+      "SubRegionCode": "SADA",
+      "SubRegionName": "Sadasivpet"
+    }
+  ],
+  "SAFI": [
+    {
+      "RegionCode": "SAFI",
+      "RegionName": "Safidon",
+      "SubRegionCode": "SAFI",
+      "SubRegionName": "Safidon"
+    }
+  ],
+  "SAMP": [
+    {
+      "RegionCode": "SAMP",
+      "RegionName": "Sagar",
+      "SubRegionCode": "SAMP",
+      "SubRegionName": "Sagar"
+    }
+  ],
+  "SAGA": [
+    {
+      "RegionCode": "SAGA",
+      "RegionName": "Sagwara",
+      "SubRegionCode": "SAGA",
+      "SubRegionName": "Sagwara"
+    }
+  ],
+  "SAHA": [
+    {
+      "RegionCode": "SAHA",
+      "RegionName": "Saharanpur",
+      "SubRegionCode": "SAHA",
+      "SubRegionName": "Saharanpur"
+    }
+  ],
+  "SAPE": [
+    {
+      "RegionCode": "SAPE",
+      "RegionName": "Saint Petersburg",
+      "SubRegionCode": "SAPE",
+      "SubRegionName": "Saint Petersburg"
+    }
+  ],
+  "SOGO": [
+    {
+      "RegionCode": "SOGO",
+      "RegionName": "Sakhir",
+      "SubRegionCode": "SAKH",
+      "SubRegionName": "Sakhir"
+    }
+  ],
+  "SAKT": [
+    {
+      "RegionCode": "SAKT",
+      "RegionName": "Sakti",
+      "SubRegionCode": "SAKT",
+      "SubRegionName": "Sakti"
+    }
+  ],
+  "SALM": [
+    {
+      "RegionCode": "SALM",
+      "RegionName": "Salem",
+      "SubRegionCode": "SALM",
+      "SubRegionName": "Salem"
+    }
+  ],
+  "SAMR": [
+    {
+      "RegionCode": "SAMR",
+      "RegionName": "Samara",
+      "SubRegionCode": "SAMR",
+      "SubRegionName": "Samara"
+    }
+  ],
+  "SAMB": [
+    {
+      "RegionCode": "SAMB",
+      "RegionName": "Sambalpur",
+      "SubRegionCode": "SAMB",
+      "SubRegionName": "Sambalpur"
+    }
+  ],
+  "SANG": [
+    {
+      "RegionCode": "SANG",
+      "RegionName": "Sangli",
+      "SubRegionCode": "SANG",
+      "SubRegionName": "Sangli"
+    }
+  ],
+  "SPAL": [
+    {
+      "RegionCode": "SPAL",
+      "RegionName": "Saraipali",
+      "SubRegionCode": "SPAL",
+      "SubRegionName": "Saraipali"
+    }
+  ],
+  "SARH": [
+    {
+      "RegionCode": "SARH",
+      "RegionName": "Sarangarh",
+      "SubRegionCode": "SARH",
+      "SubRegionName": "Sarangarh"
+    }
+  ],
+  "SARA": [
+    {
+      "RegionCode": "SARA",
+      "RegionName": "Sarangpur",
+      "SubRegionCode": "SARA",
+      "SubRegionName": "Sarangpur"
+    }
+  ],
+  "ANSK": [
+    {
+      "RegionCode": "ANSK",
+      "RegionName": "Saransk",
+      "SubRegionCode": "ANSK",
+      "SubRegionName": "Saransk"
+    }
+  ],
+  "SARP": [
+    {
+      "RegionCode": "SARP",
+      "RegionName": "Sarapaka",
+      "SubRegionCode": "SARP",
+      "SubRegionName": "Sarapaka"
+    }
+  ],
+  "SATA": [
+    {
+      "RegionCode": "SATA",
+      "RegionName": "Satara",
+      "SubRegionCode": "SATA",
+      "SubRegionName": "Satara"
+    }
+  ],
+  "SATN": [
+    {
+      "RegionCode": "SATN",
+      "RegionName": "Satna",
+      "SubRegionCode": "SATN",
+      "SubRegionName": "Satna"
+    }
+  ],
+  "SATL": [
+    {
+      "RegionCode": "SATL",
+      "RegionName": "Sattenapalle",
+      "SubRegionCode": "SATL",
+      "SubRegionName": "Sattenapalle"
+    }
+  ],
+  "SEMA": [
+    {
+      "RegionCode": "SEMA",
+      "RegionName": "Seoni Malwa",
+      "SubRegionCode": "SEMA",
+      "SubRegionName": "Seoni Malwa"
+    }
+  ],
+  "SHAD": [
+    {
+      "RegionCode": "SHAD",
+      "RegionName": "Shadnagar",
+      "SubRegionCode": "SHAD",
+      "SubRegionName": "Shadnagar"
+    }
+  ],
+  "SHAH": [
+    {
+      "RegionCode": "SHAH",
+      "RegionName": "Shahdol",
+      "SubRegionCode": "SHAH",
+      "SubRegionName": "Shahdol"
+    }
+  ],
+  "SHJH": [
+    {
+      "RegionCode": "SHJH",
+      "RegionName": "Shahjahanpur",
+      "SubRegionCode": "SHJH",
+      "SubRegionName": "Shahjahanpur"
+    }
+  ],
+  "SKRP": [
+    {
+      "RegionCode": "SKRP",
+      "RegionName": "Shankarpally",
+      "SubRegionCode": "SKRP",
+      "SubRegionName": "Shankarpally"
+    }
+  ],
+  "SHLG": [
+    {
+      "RegionCode": "SHLG",
+      "RegionName": "Shillong",
+      "SubRegionCode": "SHLG",
+      "SubRegionName": "Shillong"
+    }
+  ],
+  "SMLA": [
+    {
+      "RegionCode": "SMLA",
+      "RegionName": "Shimla",
+      "SubRegionCode": "SMLA",
+      "SubRegionName": "Shimla"
+    }
+  ],
+  "SHIR": [
+    {
+      "RegionCode": "SHIR",
+      "RegionName": "Shirali",
+      "SubRegionCode": "SHIR",
+      "SubRegionName": "Shirali"
+    }
+  ],
+  "SHIA": [
+    {
+      "RegionCode": "SHIA",
+      "RegionName": "Shivamogga",
+      "SubRegionCode": "SHIA",
+      "SubRegionName": "Shivamogga"
+    }
+  ],
+  "SHIV": [
+    {
+      "RegionCode": "SHIV",
+      "RegionName": "Shivpuri",
+      "SubRegionCode": "SHIV",
+      "SubRegionName": "Shivpuri"
+    }
+  ],
+  "SHUR": [
+    {
+      "RegionCode": "SHUR",
+      "RegionName": "Shrirampur",
+      "SubRegionCode": "SHUR",
+      "SubRegionName": "Shrirampur"
+    }
+  ],
+  "SIL": [
+    {
+      "RegionCode": "SIL",
+      "RegionName": "Silchar",
+      "SubRegionCode": "SIL",
+      "SubRegionName": "Silchar"
+    }
+  ],
+  "SILI": [
+    {
+      "RegionCode": "SILI",
+      "RegionName": "Siliguri",
+      "SubRegionCode": "SILI",
+      "SubRegionName": "Siliguri"
+    }
+  ],
+  "SIND": [
+    {
+      "RegionCode": "SIND",
+      "RegionName": "Sindhanur",
+      "SubRegionCode": "SIND",
+      "SubRegionName": "Sindhanur"
+    }
+  ],
+  "SNGR": [
+    {
+      "RegionCode": "SNGR",
+      "RegionName": "Singrauli",
+      "SubRegionCode": "SNGR",
+      "SubRegionName": "Singrauli"
+    }
+  ],
+  "SINA": [
+    {
+      "RegionCode": "SINA",
+      "RegionName": "Sinnar",
+      "SubRegionCode": "SINA",
+      "SubRegionName": "Sinnar"
+    }
+  ],
+  "SIRC": [
+    {
+      "RegionCode": "SIRC",
+      "RegionName": "Sircilla",
+      "SubRegionCode": "SIRC",
+      "SubRegionName": "Sircilla"
+    }
+  ],
+  "SISA": [
+    {
+      "RegionCode": "SISA",
+      "RegionName": "Sirsa",
+      "SubRegionCode": "SISA",
+      "SubRegionName": "Sirsa"
+    }
+  ],
+  "SIMA": [
+    {
+      "RegionCode": "SIMA",
+      "RegionName": "Sitamarhi",
+      "SubRegionCode": "SIMA",
+      "SubRegionName": "Sitamarhi"
+    }
+  ],
+  "SITA": [
+    {
+      "RegionCode": "SITA",
+      "RegionName": "Sitapur",
+      "SubRegionCode": "SITA",
+      "SubRegionName": "Sitapur"
+    }
+  ],
+  "SVSG": [
+    {
+      "RegionCode": "SVSG",
+      "RegionName": "Sivasagar",
+      "SubRegionCode": "SVSG",
+      "SubRegionName": "Sivasagar"
+    }
+  ],
+  "SOCH": [
+    {
+      "RegionCode": "SOCH",
+      "RegionName": "Sochi",
+      "SubRegionCode": "SOCH",
+      "SubRegionName": "Sochi"
+    }
+  ],
+  "SOLA": [
+    {
+      "RegionCode": "SOLA",
+      "RegionName": "Solapur",
+      "SubRegionCode": "SOLA",
+      "SubRegionName": "Solapur"
+    }
+  ],
+  "SOMA": [
+    {
+      "RegionCode": "SOMA",
+      "RegionName": "Sompeta",
+      "SubRegionCode": "SOMA",
+      "SubRegionName": "Sompeta"
+    }
+  ],
+  "SONG": [
+    {
+      "RegionCode": "SONG",
+      "RegionName": "Songadh",
+      "SubRegionCode": "SONG",
+      "SubRegionName": "Songadh"
+    }
+  ],
+  "RAIH": [
+    {
+      "RegionCode": "RAIH",
+      "RegionName": "Sonipat",
+      "SubRegionCode": "RAIH",
+      "SubRegionName": "Sonipat"
+    }
+  ],
+  "SRIG": [
+    {
+      "RegionCode": "SRIG",
+      "RegionName": "Sri Ganganagar",
+      "SubRegionCode": "SRIG",
+      "SubRegionName": "Sri Ganganagar"
+    }
+  ],
+  "SRKL": [
+    {
+      "RegionCode": "SRKL",
+      "RegionName": "Srikakulam",
+      "SubRegionCode": "SRKL",
+      "SubRegionName": "Srikakulam"
+    }
+  ],
+  "SRTI": [
+    {
+      "RegionCode": "SRTI",
+      "RegionName": "Srikalahasti",
+      "SubRegionCode": "SRTI",
+      "SubRegionName": "Srikalahasti"
+    }
+  ],
+  "SUND": [
+    {
+      "RegionCode": "SUND",
+      "RegionName": "Sundargarh",
+      "SubRegionCode": "SUND",
+      "SubRegionName": "Sundargarh"
+    }
+  ],
+  "SURT": [
+    {
+      "RegionCode": "SURT",
+      "RegionName": "Surat",
+      "SubRegionCode": "SURT",
+      "SubRegionName": "Surat"
+    }
+  ],
+  "SRDN": [
+    {
+      "RegionCode": "SRDN",
+      "RegionName": "Surendranagar",
+      "SubRegionCode": "SRDN",
+      "SubRegionName": "Surendranagar"
+    }
+  ],
+  "BSRI": [
+    {
+      "RegionCode": "BSRI",
+      "RegionName": "Suri",
+      "SubRegionCode": "BSRI",
+      "SubRegionName": "Suri"
+    }
+  ],
+  "SURY": [
+    {
+      "RegionCode": "SURY",
+      "RegionName": "Suryapet",
+      "SubRegionCode": "SURY",
+      "SubRegionName": "Suryapet"
+    }
+  ],
+  "TTPP": [
+    {
+      "RegionCode": "TTPP",
+      "RegionName": "Tallapudi",
+      "SubRegionCode": "TTPP",
+      "SubRegionName": "Tallapudi"
+    }
+  ],
+  "TNDA": [
+    {
+      "RegionCode": "TNDA",
+      "RegionName": "Tanda",
+      "SubRegionCode": "TNDA",
+      "SubRegionName": "Tanda"
+    }
+  ],
+  "TAND": [
+    {
+      "RegionCode": "TAND",
+      "RegionName": "Tandur",
+      "SubRegionCode": "TAND",
+      "SubRegionName": "Tandur"
+    }
+  ],
+  "TANG": [
+    {
+      "RegionCode": "TANG",
+      "RegionName": "Tangutur",
+      "SubRegionCode": "TANG",
+      "SubRegionName": "Tangutur"
+    }
+  ],
+  "TANK": [
+    {
+      "RegionCode": "TANK",
+      "RegionName": "Tanuku",
+      "SubRegionCode": "TANK",
+      "SubRegionName": "Tanuku"
+    }
+  ],
+  "TKLI": [
+    {
+      "RegionCode": "TKLI",
+      "RegionName": "Tekkali",
+      "SubRegionCode": "TKLI",
+      "SubRegionName": "Tekkali"
+    }
+  ],
+  "TENA": [
+    {
+      "RegionCode": "TENA",
+      "RegionName": "Tenali",
+      "SubRegionCode": "TENA",
+      "SubRegionName": "Tenali"
+    }
+  ],
+  "TENK": [
+    {
+      "RegionCode": "TENK",
+      "RegionName": "Tenkasi",
+      "SubRegionCode": "TENK",
+      "SubRegionName": "Tenkasi"
+    }
+  ],
+  "THAY": [
+    {
+      "RegionCode": "THAY",
+      "RegionName": "Thalassery",
+      "SubRegionCode": "THAY",
+      "SubRegionName": "Thalassery"
+    }
+  ],
+  "THAL": [
+    {
+      "RegionCode": "THAL",
+      "RegionName": "Thalayolaparambu",
+      "SubRegionCode": "THAL",
+      "SubRegionName": "Thalayolaparambu"
+    }
+  ],
+  "THRM": [
+    {
+      "RegionCode": "THRM",
+      "RegionName": "Thirumalagiri",
+      "SubRegionCode": "THRM",
+      "SubRegionName": "Thirumalagiri"
+    }
+  ],
+  "THOD": [
+    {
+      "RegionCode": "THOD",
+      "RegionName": "Thodupuzha",
+      "SubRegionCode": "THOD",
+      "SubRegionName": "Thodupuzha"
+    }
+  ],
+  "THOR": [
+    {
+      "RegionCode": "THOR",
+      "RegionName": "Thorrur",
+      "SubRegionCode": "THOR",
+      "SubRegionName": "Thorrur"
+    }
+  ],
+  "TNO": [
+    {
+      "RegionCode": "TNO",
+      "RegionName": "Tilda Neora",
+      "SubRegionCode": "TNO",
+      "SubRegionName": "Tilda Neora"
+    }
+  ],
+  "TINS": [
+    {
+      "RegionCode": "TINS",
+      "RegionName": "Tinsukia",
+      "SubRegionCode": "TINS",
+      "SubRegionName": "Tinsukia"
+    }
+  ],
+  "TINA": [
+    {
+      "RegionCode": "TINA",
+      "RegionName": "Tirumakudalu Narasipura",
+      "SubRegionCode": "TINA",
+      "SubRegionName": "Tirumakudalu Narasipura"
+    }
+  ],
+  "TIRV": [
+    {
+      "RegionCode": "TIRV",
+      "RegionName": "Tirunelveli",
+      "SubRegionCode": "TIRV",
+      "SubRegionName": "Tirunelveli"
+    }
+  ],
+  "TIRU": [
+    {
+      "RegionCode": "TIRU",
+      "RegionName": "Tirupati",
+      "SubRegionCode": "TIRU",
+      "SubRegionName": "Tirupati"
+    }
+  ],
+  "TIRP": [
+    {
+      "RegionCode": "TIRP",
+      "RegionName": "Tirupur",
+      "SubRegionCode": "TIRP",
+      "SubRegionName": "Tirupur"
+    }
+  ],
+  "TRVR": [
+    {
+      "RegionCode": "TRVR",
+      "RegionName": "Tiruvuru",
+      "SubRegionCode": "TRVR",
+      "SubRegionName": "Tiruvuru"
+    }
+  ],
+  "TRIC": [
+    {
+      "RegionCode": "TRIC",
+      "RegionName": "Trichy",
+      "SubRegionCode": "TRIC",
+      "SubRegionName": "Trichy"
+    }
+  ],
+  "TRIV": [
+    {
+      "RegionCode": "TRIV",
+      "RegionName": "Trivandrum",
+      "SubRegionCode": "TRIV",
+      "SubRegionName": "Trivandrum"
+    }
+  ],
+  "TUMK": [
+    {
+      "RegionCode": "TUMK",
+      "RegionName": "Tumakuru (Tumkur)",
+      "SubRegionCode": "TUMK",
+      "SubRegionName": "Tumakuru (Tumkur)"
+    }
+  ],
+  "UDAI": [
+    {
+      "RegionCode": "UDAI",
+      "RegionName": "Udaipur",
+      "SubRegionCode": "UDAI",
+      "SubRegionName": "Udaipur"
+    }
+  ],
+  "UJJN": [
+    {
+      "RegionCode": "UJJN",
+      "RegionName": "Ujjain",
+      "SubRegionCode": "UJJN",
+      "SubRegionName": "Ujjain"
+    }
+  ],
+  "ULUR": [
+    {
+      "RegionCode": "ULUR",
+      "RegionName": "Uluberia",
+      "SubRegionCode": "ULUR",
+      "SubRegionName": "Uluberia"
+    }
+  ],
+  "UMER": [
+    {
+      "RegionCode": "UMER",
+      "RegionName": "Umbergaon",
+      "SubRegionCode": "UMER",
+      "SubRegionName": "Umbergaon"
+    }
+  ],
+  "VDKR": [
+    {
+      "RegionCode": "VDKR",
+      "RegionName": "Vadakara",
+      "SubRegionCode": "VDKR",
+      "SubRegionName": "Vadakara"
+    }
+  ],
+  "VAD": [
+    {
+      "RegionCode": "VAD",
+      "RegionName": "Vadodara",
+      "SubRegionCode": "VAD",
+      "SubRegionName": "Vadodara"
+    }
+  ],
+  "VALI": [
+    {
+      "RegionCode": "VALI",
+      "RegionName": "Valigonda",
+      "SubRegionCode": "VALI",
+      "SubRegionName": "Valigonda"
+    }
+  ],
+  "VLSD": [
+    {
+      "RegionCode": "VLSD",
+      "RegionName": "Valsad",
+      "SubRegionCode": "VLSD",
+      "SubRegionName": "Valsad"
+    }
+  ],
+  "VAPI": [
+    {
+      "RegionCode": "VAPI",
+      "RegionName": "Vapi",
+      "SubRegionCode": "VAPI",
+      "SubRegionName": "Vapi"
+    }
+  ],
+  "VAR": [
+    {
+      "RegionCode": "VAR",
+      "RegionName": "Varanasi",
+      "SubRegionCode": "VAR",
+      "SubRegionName": "Varanasi"
+    }
+  ],
+  "VELL": [
+    {
+      "RegionCode": "VELL",
+      "RegionName": "Vellore",
+      "SubRegionCode": "VELL",
+      "SubRegionName": "Vellore"
+    }
+  ],
+  "VERU": [
+    {
+      "RegionCode": "VERU",
+      "RegionName": "Vemulawada",
+      "SubRegionCode": "VERU",
+      "SubRegionName": "Vemulawada"
+    }
+  ],
+  "VIDI": [
+    {
+      "RegionCode": "VIDI",
+      "RegionName": "Vidisha",
+      "SubRegionCode": "VIDI",
+      "SubRegionName": "Vidisha"
+    }
+  ],
+  "VIJP": [
+    {
+      "RegionCode": "VIJP",
+      "RegionName": "Vijayapura (Bengaluru Rural)",
+      "SubRegionCode": "VIJP",
+      "SubRegionName": "Vijayapura (Bengaluru Rural)"
+    }
+  ],
+  "VJPR": [
+    {
+      "RegionCode": "VJPR",
+      "RegionName": "Vijayapura (Bijapur)",
+      "SubRegionCode": "VJPR",
+      "SubRegionName": "Vijayapura (Bijapur)"
+    }
+  ],
+  "VIJA": [
+    {
+      "RegionCode": "VIJA",
+      "RegionName": "Vijayawada",
+      "SubRegionCode": "VIJA",
+      "SubRegionName": "Vijayawada"
+    }
+  ],
+  "VKBD": [
+    {
+      "RegionCode": "VKBD",
+      "RegionName": "Vikarabad",
+      "SubRegionCode": "VKBD",
+      "SubRegionName": "Vikarabad"
+    }
+  ],
+  "VNKD": [
+    {
+      "RegionCode": "VNKD",
+      "RegionName": "Vinukonda",
+      "SubRegionCode": "VNKD",
+      "SubRegionName": "Vinukonda"
+    }
+  ],
+  "VIZA": [
+    {
+      "RegionCode": "VIZA",
+      "RegionName": "Vizag",
+      "SubRegionCode": "VIZA",
+      "SubRegionName": "Vizag"
+    }
+  ],
+  "VIZI": [
+    {
+      "RegionCode": "VIZI",
+      "RegionName": "Vizianagaram",
+      "SubRegionCode": "VIZI",
+      "SubRegionName": "Vizianagaram"
+    }
+  ],
+  "VOLO": [
+    {
+      "RegionCode": "VOLO",
+      "RegionName": "Volgograd",
+      "SubRegionCode": "VOLO",
+      "SubRegionName": "Volgograd"
+    }
+  ],
+  "WANI": [
+    {
+      "RegionCode": "WANI",
+      "RegionName": "Wani",
+      "SubRegionCode": "WANI",
+      "SubRegionName": "Wani"
+    }
+  ],
+  "WAR": [
+    {
+      "RegionCode": "WAR",
+      "RegionName": "Warangal",
+      "SubRegionCode": "WAR",
+      "SubRegionName": "Warangal"
+    }
+  ],
+  "WARD": [
+    {
+      "RegionCode": "WARD",
+      "RegionName": "Wardha",
+      "SubRegionCode": "WARD",
+      "SubRegionName": "Wardha"
+    }
+  ],
+  "WRRA": [
+    {
+      "RegionCode": "WRRA",
+      "RegionName": "Warora",
+      "SubRegionCode": "WRRA",
+      "SubRegionName": "Warora"
+    }
+  ],
+  "WWAR": [
+    {
+      "RegionCode": "WWAR",
+      "RegionName": "Wyra",
+      "SubRegionCode": "WWAR",
+      "SubRegionName": "Wyra"
+    }
+  ],
+  "YAMU": [
+    {
+      "RegionCode": "YAMU",
+      "RegionName": "Yamunanagar",
+      "SubRegionCode": "YAMU",
+      "SubRegionName": "Yamunanagar"
+    }
+  ],
+  "YAVA": [
+    {
+      "RegionCode": "YAVA",
+      "RegionName": "Yavatmal",
+      "SubRegionCode": "YAVA",
+      "SubRegionName": "Yavatmal"
+    }
+  ],
+  "ZAGE": [
+    {
+      "RegionCode": "ZAGE",
+      "RegionName": "Zaheerabad",
+      "SubRegionCode": "ZAGE",
+      "SubRegionName": "Zaheerabad"
+    }
+  ],
+  "AHMED": [
+    {
+      "RegionCode": "AHMED",
+      "RegionName": "Ahmednagar",
+      "SubRegionCode": "AHMED",
+      "SubRegionName": "Ahmednagar"
+    }
+  ],
+  "ALPZ": [
+    {
+      "RegionCode": "ALPZ",
+      "RegionName": "Alappuzha",
+      "SubRegionCode": "ALPZ",
+      "SubRegionName": "Alappuzha"
+    }
+  ],
+  "ALLH": [
+    {
+      "RegionCode": "ALLH",
+      "RegionName": "Allahabad",
+      "SubRegionCode": "ALLH",
+      "SubRegionName": "Allahabad"
+    }
+  ],
+  "ALWR": [
+    {
+      "RegionCode": "ALWR",
+      "RegionName": "Alwar",
+      "SubRegionCode": "ALWR",
+      "SubRegionName": "Alwar"
+    }
+  ],
+  "ANKL": [
+    {
+      "RegionCode": "ANKL",
+      "RegionName": "Ankleshwar",
+      "SubRegionCode": "ANKL",
+      "SubRegionName": "Ankleshwar"
+    }
+  ],
+  "BARC": [
+    {
+      "RegionCode": "BARC",
+      "RegionName": "Barcelona",
+      "SubRegionCode": "BARC",
+      "SubRegionName": "Barcelona"
+    }
+  ],
+  "BEED": [
+    {
+      "RegionCode": "BEED",
+      "RegionName": "Beed",
+      "SubRegionCode": "BEED",
+      "SubRegionName": "Beed"
+    }
+  ],
+  "BHIL": [
+    {
+      "RegionCode": "BHIL",
+      "RegionName": "Bhilwara",
+      "SubRegionCode": "BHIL",
+      "SubRegionName": "Bhilwara"
+    }
+  ],
+  "BHWD": [
+    {
+      "RegionCode": "BHWD",
+      "RegionName": "Bhiwadi",
+      "SubRegionCode": "BHWD",
+      "SubRegionName": "Bhiwadi"
+    }
+  ],
+  "BOIS": [
+    {
+      "RegionCode": "BOIS",
+      "RegionName": "Boisar",
+      "SubRegionCode": "BOIS",
+      "SubRegionName": "Boisar"
+    }
+  ],
+  "CHEG": [
+    {
+      "RegionCode": "CHEG",
+      "RegionName": "Chengannur",
+      "SubRegionCode": "CHEG",
+      "SubRegionName": "Chengannur"
+    }
+  ],
+  "CHIN": [
+    {
+      "RegionCode": "CHIN",
+      "RegionName": "Chhindwara",
+      "SubRegionCode": "CHIN",
+      "SubRegionName": "Chhindwara"
+    }
+  ],
+  "DBBK": [
+    {
+      "RegionCode": "DBBK",
+      "RegionName": "Dubbaka",
+      "SubRegionCode": "DBBK",
+      "SubRegionName": "Dubbaka"
+    }
+  ],
+  "GDVK": [
+    {
+      "RegionCode": "GDVK",
+      "RegionName": "Godavarikhani",
+      "SubRegionCode": "GDVK",
+      "SubRegionName": "Godavarikhani"
+    }
+  ],
+  "GWAL": [
+    {
+      "RegionCode": "GWAL",
+      "RegionName": "Gwalior",
+      "SubRegionCode": "GWAL",
+      "SubRegionName": "Gwalior"
+    }
+  ],
+  "HRE": [
+    {
+      "RegionCode": "HRE",
+      "RegionName": "Haveri",
+      "SubRegionCode": "HRE",
+      "SubRegionName": "Haveri"
+    }
+  ],
+  "HWRH": [
+    {
+      "RegionCode": "HWRH",
+      "RegionName": "Howrah",
+      "SubRegionCode": "HWRH",
+      "SubRegionName": "Howrah"
+    }
+  ],
+  "HUBL": [
+    {
+      "RegionCode": "HUBL",
+      "RegionName": "Hubballi (Hubli)",
+      "SubRegionCode": "HUBL",
+      "SubRegionName": "Hubballi (Hubli)"
+    }
+  ],
+  "JABL": [
+    {
+      "RegionCode": "JABL",
+      "RegionName": "Jabalpur",
+      "SubRegionCode": "JABL",
+      "SubRegionName": "Jabalpur"
+    }
+  ],
+  "JPG": [
+    {
+      "RegionCode": "JPG",
+      "RegionName": "Jalpaiguri",
+      "SubRegionCode": "JPG",
+      "SubRegionName": "Jalpaiguri"
+    }
+  ],
+  "JAMM": [
+    {
+      "RegionCode": "JAMM",
+      "RegionName": "Jammu",
+      "SubRegionCode": "JAMM",
+      "SubRegionName": "Jammu"
+    }
+  ],
+  "KARG": [
+    {
+      "RegionCode": "KARG",
+      "RegionName": "Karunagapally",
+      "SubRegionCode": "KARG",
+      "SubRegionName": "Karunagapally"
+    }
+  ],
+  "KWAR": [
+    {
+      "RegionCode": "KWAR",
+      "RegionName": "Karwar",
+      "SubRegionCode": "KWAR",
+      "SubRegionName": "Karwar"
+    }
+  ],
+  "AWCK": [
+    {
+      "RegionCode": "AWCK",
+      "RegionName": "Kattappana",
+      "SubRegionCode": "AWCK",
+      "SubRegionName": "Kattappana"
+    }
+  ],
+  "KOLM": [
+    {
+      "RegionCode": "KOLM",
+      "RegionName": "Kollam",
+      "SubRegionCode": "KOLM",
+      "SubRegionName": "Kollam"
+    }
+  ],
+  "KRBA": [
+    {
+      "RegionCode": "KRBA",
+      "RegionName": "Korba",
+      "SubRegionCode": "KRBA",
+      "SubRegionName": "Korba"
+    }
+  ],
+  "KOTK": [
+    {
+      "RegionCode": "KOTK",
+      "RegionName": "Kotkapura",
+      "SubRegionCode": "KOTK",
+      "SubRegionName": "Kotkapura"
+    }
+  ],
+  "MND": [
+    {
+      "RegionCode": "MND",
+      "RegionName": "Mandya",
+      "SubRegionCode": "MND",
+      "SubRegionName": "Mandya"
+    }
+  ],
+  "MNGU": [
+    {
+      "RegionCode": "MNGU",
+      "RegionName": "Manuguru",
+      "SubRegionCode": "MNGU",
+      "SubRegionName": "Manuguru"
+    }
+  ],
+  "MATH": [
+    {
+      "RegionCode": "MATH",
+      "RegionName": "Mathura",
+      "SubRegionCode": "MATH",
+      "SubRegionName": "Mathura"
+    }
+  ],
+  "MDAK": [
+    {
+      "RegionCode": "MDAK",
+      "RegionName": "Medak",
+      "SubRegionCode": "MDAK",
+      "SubRegionName": "Medak"
+    }
+  ],
+  "MOGA": [
+    {
+      "RegionCode": "MOGA",
+      "RegionName": "Moga",
+      "SubRegionCode": "MOGA",
+      "SubRegionName": "Moga"
+    }
+  ],
+  "MSS": [
+    {
+      "RegionCode": "MSS",
+      "RegionName": "Mussoorie",
+      "SubRegionCode": "MSS",
+      "SubRegionName": "Mussoorie"
+    }
+  ],
+  "NAIN": [
+    {
+      "RegionCode": "NAIN",
+      "RegionName": "Nainital",
+      "SubRegionCode": "NAIN",
+      "SubRegionName": "Nainital"
+    }
+  ],
+  "NVSR": [
+    {
+      "RegionCode": "NVSR",
+      "RegionName": "Navsari",
+      "SubRegionCode": "NVSR",
+      "SubRegionName": "Navsari"
+    }
+  ],
+  "PALG": [
+    {
+      "RegionCode": "PALG",
+      "RegionName": "Palghar",
+      "SubRegionCode": "PALG",
+      "SubRegionName": "Palghar"
+    }
+  ],
+  "POLL": [
+    {
+      "RegionCode": "POLL",
+      "RegionName": "Pollachi",
+      "SubRegionCode": "POLL",
+      "SubRegionName": "Pollachi"
+    }
+  ],
+  "RAI": [
+    {
+      "RegionCode": "RAI",
+      "RegionName": "Raigad",
+      "SubRegionCode": "RAI",
+      "SubRegionName": "Raigad"
+    }
+  ],
+  "RAJA": [
+    {
+      "RegionCode": "RAJA",
+      "RegionName": "Rajnandgaon",
+      "SubRegionCode": "RAJA",
+      "SubRegionName": "Rajnandgaon"
+    }
+  ],
+  "RWAA": [
+    {
+      "RegionCode": "RWAA",
+      "RegionName": "Rewa",
+      "SubRegionCode": "RWAA",
+      "SubRegionName": "Rewa"
+    }
+  ],
+  "SNGO": [
+    {
+      "RegionCode": "SNGO",
+      "RegionName": "Sangola",
+      "SubRegionCode": "SNGO",
+      "SubRegionName": "Sangola"
+    }
+  ],
+  "SEHO": [
+    {
+      "RegionCode": "SEHO",
+      "RegionName": "Sehore",
+      "SubRegionCode": "SEHO",
+      "SubRegionName": "Sehore"
+    }
+  ],
+  "SEON": [
+    {
+      "RegionCode": "SEON",
+      "RegionName": "Seoni",
+      "SubRegionCode": "SEON",
+      "SubRegionName": "Seoni"
+    }
+  ],
+  "SDDP": [
+    {
+      "RegionCode": "SDDP",
+      "RegionName": "Siddipet",
+      "SubRegionCode": "SDDP",
+      "SubRegionName": "Siddipet"
+    }
+  ],
+  "SIKR": [
+    {
+      "RegionCode": "SIKR",
+      "RegionName": "Sikar",
+      "SubRegionCode": "SIKR",
+      "SubRegionName": "Sikar"
+    }
+  ],
+  "SILV": [
+    {
+      "RegionCode": "SILV",
+      "RegionName": "Silvassa",
+      "SubRegionCode": "SILV",
+      "SubRegionName": "Silvassa"
+    }
+  ],
+  "SCO": [
+    {
+      "RegionCode": "SCO",
+      "RegionName": "Solan",
+      "SubRegionCode": "SCO",
+      "SubRegionName": "Solan"
+    }
+  ],
+  "THSR": [
+    {
+      "RegionCode": "THSR",
+      "RegionName": "Thrissur",
+      "SubRegionCode": "THSR",
+      "SubRegionName": "Thrissur"
+    }
+  ],
+  "UDGR": [
+    {
+      "RegionCode": "UDGR",
+      "RegionName": "Udgir",
+      "SubRegionCode": "UDGR",
+      "SubRegionName": "Udgir"
+    }
+  ],
+  "YRLL": [
+    {
+      "RegionCode": "YRLL",
+      "RegionName": "Yellandu",
+      "SubRegionCode": "YRLL",
+      "SubRegionName": "Yellandu"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "BookMyShow": {
+    "StateList": [
+      {
+        "SCode": "AN",
+        "SName": "Andaman and Nicobar"
+      },
+      {
+        "SCode": "AP",
+        "SName": "Andhra Pradesh"
+      },
+      {
+        "SCode": "AR",
+        "SName": "Arunachal Pradesh"
+      },
+      {
+        "SCode": "AS",
+        "SName": "Assam"
+      },
+      {
+        "SCode": "BR",
+        "SName": "Bihar"
+      },
+      {
+        "SCode": "CG",
+        "SName": "Chhattisgarh"
+      },
+      {
+        "SCode": "CH",
+        "SName": "Chandigarh"
+      },
+      {
+        "SCode": "DD",
+        "SName": "Daman and Diu"
+      },
+      {
+        "SCode": "DL",
+        "SName": "Delhi"
+      },
+      {
+        "SCode": "DN",
+        "SName": "Dadra and Nagar Haveli"
+      },
+      {
+        "SCode": "GA",
+        "SName": "Goa"
+      },
+      {
+        "SCode": "GJ",
+        "SName": "Gujarat"
+      },
+      {
+        "SCode": "HP",
+        "SName": "Himachal Pradesh"
+      },
+      {
+        "SCode": "HR",
+        "SName": "Haryana"
+      },
+      {
+        "SCode": "JH",
+        "SName": "Jharkhand"
+      },
+      {
+        "SCode": "JK",
+        "SName": "Jammu and Kashmir"
+      },
+      {
+        "SCode": "KL",
+        "SName": "Kerala"
+      },
+      {
+        "SCode": "KT",
+        "SName": "Karnataka"
+      },
+      {
+        "SCode": "LD",
+        "SName": "Lakshwadeep"
+      },
+      {
+        "SCode": "MH",
+        "SName": "Maharashtra"
+      },
+      {
+        "SCode": "ML",
+        "SName": "Meghalaya"
+      },
+      {
+        "SCode": "MN",
+        "SName": "Manipur"
+      },
+      {
+        "SCode": "MP",
+        "SName": "Madhya Pradesh"
+      },
+      {
+        "SCode": "MZ",
+        "SName": "Mizoram"
+      },
+      {
+        "SCode": "NL",
+        "SName": "Nagaland"
+      },
+      {
+        "SCode": "OR",
+        "SName": "Odisha"
+      },
+      {
+        "SCode": "PB",
+        "SName": "Punjab"
+      },
+      {
+        "SCode": "PY",
+        "SName": "Pondicherry"
+      },
+      {
+        "SCode": "RJ",
+        "SName": "Rajasthan"
+      },
+      {
+        "SCode": "SK",
+        "SName": "Sikkim"
+      },
+      {
+        "SCode": "TG",
+        "SName": "Telangana"
+      },
+      {
+        "SCode": "TN",
+        "SName": "Tamil Nadu"
+      },
+      {
+        "SCode": "TR",
+        "SName": "Tripura"
+      },
+      {
+        "SCode": "UK",
+        "SName": "Uttarakhand"
+      },
+      {
+        "SCode": "UP",
+        "SName": "Uttar Pradesh"
+      },
+      {
+        "SCode": "WB",
+        "SName": "West Bengal"
+      }
+    ]
+  }
+}
