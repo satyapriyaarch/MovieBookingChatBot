@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="Sqlite" id="Project_1527856" template="Default" database="Sqlite" >
+	<schema name="Default" schemaname="Default" >
+		<table name="Genre" >
+			<column name="GenreId" type="integer" jt="4" />
+			<column name="GenreCode" type="integer" jt="4" />
+			<column name="GenreName" type="varchar" length="100" jt="12" />
+		</table>
+		<table name="Language" >
+			<column name="LangId" type="integer" length="2000000000" decimal="10" jt="4" />
+			<column name="LangCode" type="text" length="2000000000" decimal="10" jt="-1" />
+			<column name="LangName" type="text" length="2000000000" decimal="10" jt="-1" />
+			<index name="Unq_Language_LangId" unique="UNIQUE" >
+				<column name="LangId" />
+			</index>
+		</table>
+		<table name="Location" >
+			<column name="LocationId" type="integer" length="2000000000" decimal="10" jt="4" />
+			<column name="RegionCode" type="text" length="2000000000" decimal="10" jt="-1" />
+			<column name="RegionName" type="text" length="2000000000" decimal="10" jt="-1" />
+			<index name="Unq_Location_LocationId" unique="UNIQUE" >
+				<column name="LocationId" />
+			</index>
+		</table>
+		<table name="LocationLanguage" >
+			<column name="Location" type="integer" length="2000000000" decimal="10" jt="4" />
+			<column name="Language" type="integer" length="2000000000" decimal="10" jt="4" />
+			<index name="Idx_LocationLanguage_Location" unique="NORMAL" >
+				<column name="Location" />
+			</index>
+			<index name="Idx_LocationLanguage_Language" unique="NORMAL" >
+				<column name="Language" />
+			</index>
+			<fk name="Fk_LocationLanguage" to_schema="Default" to_table="Location" >
+				<fk_column name="Location" pk="LocationId" />
+			</fk>
+			<fk name="Fk_LocationLanguage" to_schema="Default" to_table="Language" >
+				<fk_column name="Language" pk="LangId" />
+			</fk>
+		</table>
+	</schema>
+	<connector name="MovieDB" database="Sqlite" driver_class="org.sqlite.JDBC" driver_jar="sqlite-jdbc-3.19.3.jar" driver_desc="Standard" host="localhost" port="7210" instance="/Users/apple/AIML/MovieBookingChatBot/MovieBMS.sqlite" />
+	<connector name="Sqlite" database="Sqlite" driver_class="org.sqlite.JDBC" driver_jar="sqlite-jdbc-3.19.3.jar" driver_desc="Standard" host="localhost" port="7210" instance="/Users/apple/AIML/MovieBookingChatBot/MovieDB.sqlite" />
+	<layout name="Default Layout" id="Layout_51a76f4" show_relation="columns" >
+		<entity schema="Default" name="Location" color="bfd4f5" x="45" y="45" />
+		<entity schema="Default" name="Language" color="c1d8ee" x="240" y="45" />
+		<entity schema="Default" name="LocationLanguage" color="bfd4f5" x="180" y="195" />
+		<entity schema="Default" name="Genre" color="c1d8ee" x="510" y="180" />
+		<script name="Genre" id="Editor_15d5a57" language="SQL" >
+			<string><![CDATA[SELECT * 
+FROM
+	Genre e;]]></string>
+		</script>
+		<script name="Language" id="Editor_4541053" language="SQL" >
+			<string><![CDATA[INSERT INTO Language
+	( LangId, LangCode, LangName) VALUES ( 7, 'Malayalam', 'Malayalam' );]]></string>
+		</script>
+		<script name="Language_002" id="Editor_1ec1d10" language="SQL" >
+			<string><![CDATA[SELECT * 
+FROM
+	Language e;]]></string>
+		</script>
+		<script name="Location" id="Editor_2a4343c" language="SQL" confirmed="y" >
+			<string><![CDATA[INSERT INTO Location
+	( LocationId, RegionCode, RegionName) VALUES ( 1, 'Hyderabad', 'Hyderabad' );]]></string>
+		</script>
+		<script name="LocationId" id="Editor_59cf07a" language="SQL" >
+			<string><![CDATA[	INSERT INTO LocationLanguage
+    ( Location, Language) VALUES ( 1, 2 );
+    INSERT INTO LocationLanguage
+        ( Location, Language) VALUES ( 1, 3 );
+        INSERT INTO LocationLanguage
+            ( Location, Language) VALUES ( 1, 4 );
+      
+      
+INSERT INTO LocationLanguage
+                ( Location, Language) VALUES ( 2, 1 );
+                INSERT INTO LocationLanguage
+                    ( Location, Language) VALUES ( 2, 2 );
+                    INSERT INTO LocationLanguage
+                        ( Location, Language) VALUES ( 2, 3 );
+                        INSERT INTO LocationLanguage
+                            ( Location, Language) VALUES ( 2, 4 );
+INSERT INTO LocationLanguage
+                                ( Location, Language) VALUES ( 2, 5 );
+                                INSERT INTO LocationLanguage
+                                    ( Location, Language) VALUES ( 2, 6 );
+                                    INSERT INTO LocationLanguage
+                                        ( Location, Language) VALUES ( 2, 6 );]]></string>
+		</script>
+		<script name="Location_001" id="Editor_4b04438" language="SQL" >
+			<string><![CDATA[INSERT INTO Location
+	( LocationId, RegionCode, RegionName) VALUES ( 1, 'Hyderabad', 'Hyderabad' );]]></string>
+		</script>
+		<script name="Location_002" id="Editor_30c164f" language="SQL" confirmed="y" >
+			<string><![CDATA[SELECT * 
+FROM
+	Location n;]]></string>
+		</script>
+		<script name="Location_003" id="Editor_89ba4b" language="SQL" confirmed="y" >
+			<string><![CDATA[INSERT INTO Location
+	( LocationId, RegionCode, RegionName) VALUES ( 1, 'Hyderabad', 'Hyderabad' );]]></string>
+		</script>
+		<script name="Sql_Editor" id="Editor_5f2e37d" language="SQL" >
+			<string><![CDATA[CREATE TABLE Genre ( 
+	GenreId              integer   ,
+	GenreCode            integer   ,
+	GenreName            varchar(100)   
+ );
+
+CREATE TABLE Language ( 
+	LangId               integer   ,
+	LangCode             text   ,
+	LangName             text   ,
+	CONSTRAINT Unq_Language_LangId UNIQUE ( LangId ) 
+ );
+
+CREATE TABLE Location ( 
+	LocationId           integer   ,
+	RegionCode           text   ,
+	RegionName           text   ,
+	CONSTRAINT Unq_Location_LocationId UNIQUE ( LocationId ) 
+ );
+
+CREATE TABLE LocationLanguage ( 
+	Location             integer   ,
+	Language             integer   ,
+	FOREIGN KEY ( Location ) REFERENCES Location( LocationId )  ,
+	FOREIGN KEY ( Language ) REFERENCES Language( LangId )  
+ );
+
+CREATE INDEX Idx_LocationLanguage_Location ON LocationLanguage ( Location );
+
+CREATE INDEX Idx_LocationLanguage_Language ON LocationLanguage ( Language );
+
+]]></string>
+		</script>
+		<script name="Sql_Editor_001" id="Editor_463b406" language="SQL" >
+			<string><![CDATA[CREATE TABLE Language ( 
+	LangId               integer   ,
+	LangCode             text   ,
+	LangName             text   ,
+	CONSTRAINT Unq_Language_LangId UNIQUE ( LangId ) 
+ );
+
+CREATE TABLE Location ( 
+	LocationId           integer   ,
+	RegionCode           text   ,
+	RegionName           text   ,
+	CONSTRAINT Unq_Location_LocationId UNIQUE ( LocationId ) 
+ );
+
+CREATE TABLE LocationLanguage ( 
+	Location             integer   ,
+	Language             integer   ,
+	FOREIGN KEY ( Location ) REFERENCES Location( LocationId )  ,
+	FOREIGN KEY ( Language ) REFERENCES Language( LangId )  
+ );
+
+CREATE INDEX Idx_LocationLanguage_Location ON LocationLanguage ( Location );
+
+CREATE INDEX Idx_LocationLanguage_Language ON LocationLanguage ( Language );
+
+]]></string>
+		</script>
+	</layout>
+	<layout name="Sample Layout with Tools" id="Layout_29fcfe6" show_column_type="y" show_relation="columns" >
+		<callout x="45" y="45" pointer="NO" >
+			<comment><![CDATA[Double-click any table, column or foreign key to edit, right-click to start one of the tools below.
+Use the Relational Data Browse for simultaneously exploring data from multiple tables.
+All tools will be saved to project file and can be reopen.]]></comment>
+		</callout>
+		<script name="Sample SQL Editor" id="Editor_3abe66f" language="SQL" >
+			<string><![CDATA[SELECT * 
+FROM
+	Language e;]]></string>
+		</script>
+	</layout>
+</project>
