@@ -138,7 +138,10 @@ class Session:
 
     def reply(self, user_input):
         '''Generate response to user input'''
-        
+        print(user_input);
+        print(self.context);
+        print(self.attributes);
+        print(self.current_intent);
         self.attributes, clean_input = input_processor(user_input, self.context, self.attributes, self.current_intent)
         
         self.current_intent = intentIdentifier(clean_input, self.context, self.current_intent)
@@ -166,9 +169,12 @@ session = Session()
 
 print ('BOT: Hi! How may I assist you?')
 
-while True:
+inp = "I can find movies in your city for you"
+    
+while inp != 'bye':
     
     inp = input('User: ')
+    
     print ('BOT:', session.reply(inp))
 
 

@@ -39,13 +39,13 @@
 			</fk>
 		</table>
 	</schema>
-	<connector name="MovieDB" database="Sqlite" driver_class="org.sqlite.JDBC" driver_jar="sqlite-jdbc-3.19.3.jar" driver_desc="Standard" host="localhost" port="7210" instance="/Users/apple/AIML/MovieBookingChatBot/MovieBMS.sqlite" />
+	<connector name="MovieDB" database="Sqlite" driver_class="org.sqlite.JDBC" driver_jar="sqlite-jdbc-3.19.3.jar" driver_desc="Standard" host="localhost" port="7210" instance="C:/Users/RAJPUT/Documents/AIML-Labss/MovieBookingChatBot/MovieBMS.sqlite" />
 	<connector name="Sqlite" database="Sqlite" driver_class="org.sqlite.JDBC" driver_jar="sqlite-jdbc-3.19.3.jar" driver_desc="Standard" host="localhost" port="7210" instance="/Users/apple/AIML/MovieBookingChatBot/MovieDB.sqlite" />
 	<layout name="Default Layout" id="Layout_51a76f4" show_relation="columns" >
 		<entity schema="Default" name="Location" color="bfd4f5" x="45" y="45" />
 		<entity schema="Default" name="Language" color="c1d8ee" x="240" y="45" />
 		<entity schema="Default" name="LocationLanguage" color="bfd4f5" x="180" y="195" />
-		<entity schema="Default" name="Genre" color="c1d8ee" x="510" y="180" />
+		<entity schema="Default" name="Genre" color="c1d8ee" x="300" y="240" />
 		<script name="Genre" id="Editor_15d5a57" language="SQL" >
 			<string><![CDATA[SELECT * 
 FROM
@@ -162,6 +162,9 @@ CREATE INDEX Idx_LocationLanguage_Location ON LocationLanguage ( Location );
 CREATE INDEX Idx_LocationLanguage_Language ON LocationLanguage ( Language );
 
 ]]></string>
+		</script>
+		<script name="Sql_Editor_002" id="Editor_4104925" language="SQL" >
+			<string><![CDATA[select * from Location]]></string>
 		</script>
 	</layout>
 	<layout name="Sample Layout with Tools" id="Layout_29fcfe6" show_column_type="y" show_relation="columns" >
